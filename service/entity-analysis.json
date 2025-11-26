@@ -1,0 +1,4909 @@
+[
+  {
+    "moduleName": "account",
+    "tableName": "account_account",
+    "className": "AccountAccount",
+    "filePath": "account\\account.account.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_account_account_merge_wizard_rel",
+    "className": "AccountAccountAccountMergeWizardRel",
+    "filePath": "account\\account.accountaccountmergewizardrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_account_account_tag",
+    "className": "AccountAccountAccountTag",
+    "filePath": "account\\account.accountaccounttag.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_account_res_company_rel",
+    "className": "AccountAccountResCompanyRel",
+    "filePath": "account\\account.accountrescompanyrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_account_tag",
+    "className": "AccountAccountTag",
+    "filePath": "account\\account.accounttag.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_account_tag_account_move_line_rel",
+    "className": "AccountAccountTagAccountMoveLineRel",
+    "filePath": "account\\account.accounttagaccountmovelinerel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_account_tag_account_tax_repartition_line_rel",
+    "className": "AccountAccountTagAccountTaxRepartitionLineRel",
+    "filePath": "account\\account.accounttagaccounttaxrepartitionlinerel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_account_tag_product_template_rel",
+    "className": "AccountAccountTagProductTemplateRel",
+    "filePath": "account\\account.accounttagproducttemplaterel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_account_tax_default_rel",
+    "className": "AccountAccountTaxDefaultRel",
+    "filePath": "account\\account.accounttaxdefaultrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_accrued_orders_wizard",
+    "className": "AccountAccruedOrdersWizard",
+    "filePath": "account\\account.accruedorderswizard.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_analytic_account",
+    "className": "AccountAnalyticAccount",
+    "filePath": "account\\account.analyticaccount.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_analytic_account_mrp_bom_rel",
+    "className": "AccountAnalyticAccountMrpBomRel",
+    "filePath": "account\\account.analyticaccountmrpbomrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_analytic_account_mrp_production_rel",
+    "className": "AccountAnalyticAccountMrpProductionRel",
+    "filePath": "account\\account.analyticaccountmrpproductionrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_analytic_account_mrp_workcenter_rel",
+    "className": "AccountAnalyticAccountMrpWorkcenterRel",
+    "filePath": "account\\account.analyticaccountmrpworkcenterrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_analytic_applicability",
+    "className": "AccountAnalyticApplicability",
+    "filePath": "account\\account.analyticapplicability.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_analytic_distribution_model",
+    "className": "AccountAnalyticDistributionModel",
+    "filePath": "account\\account.analyticdistributionmodel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_analytic_line",
+    "className": "AccountAnalyticLine",
+    "filePath": "account\\account.analyticline.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_analytic_line_stock_move_rel",
+    "className": "AccountAnalyticLineStockMoveRel",
+    "filePath": "account\\account.analyticlinestockmoverel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_analytic_plan",
+    "className": "AccountAnalyticPlan",
+    "filePath": "account\\account.analyticplan.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_automatic_entry_wizard",
+    "className": "AccountAutomaticEntryWizard",
+    "filePath": "account\\account.automaticentrywizard.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_automatic_entry_wizard_account_move_line_rel",
+    "className": "AccountAutomaticEntryWizardAccountMoveLineRel",
+    "filePath": "account\\account.automaticentrywizardaccountmovelinerel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_autopost_bills_wizard",
+    "className": "AccountAutopostBillsWizard",
+    "filePath": "account\\account.autopostbillswizard.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_bank_statement",
+    "className": "AccountBankStatement",
+    "filePath": "account\\account.bankstatement.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_bank_statement_ir_attachment_rel",
+    "className": "AccountBankStatementIrAttachmentRel",
+    "filePath": "account\\account.bankstatementirattachmentrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_bank_statement_line",
+    "className": "AccountBankStatementLine",
+    "filePath": "account\\account.bankstatementline.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_cash_rounding",
+    "className": "AccountCashRounding",
+    "filePath": "account\\account.cashrounding.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_financial_year_op",
+    "className": "AccountFinancialYearOp",
+    "filePath": "account\\account.financialyearop.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_fiscal_position",
+    "className": "AccountFiscalPosition",
+    "filePath": "account\\account.fiscalposition.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_fiscal_position_account",
+    "className": "AccountFiscalPositionAccount",
+    "filePath": "account\\account.fiscalpositionaccount.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_fiscal_position_account_tax_rel",
+    "className": "AccountFiscalPositionAccountTaxRel",
+    "filePath": "account\\account.fiscalpositionaccounttaxrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_fiscal_position_res_country_state_rel",
+    "className": "AccountFiscalPositionResCountryStateRel",
+    "filePath": "account\\account.fiscalpositionrescountrystaterel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_full_reconcile",
+    "className": "AccountFullReconcile",
+    "filePath": "account\\account.fullreconcile.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_group",
+    "className": "AccountGroup",
+    "filePath": "account\\account.group.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_incoterms",
+    "className": "AccountIncoterms",
+    "filePath": "account\\account.incoterms.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_invoice_transaction_rel",
+    "className": "AccountInvoiceTransactionRel",
+    "filePath": "account\\account.invoicetransactionrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_journal",
+    "className": "AccountJournal",
+    "filePath": "account\\account.journal.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_journal_account_journal_group_rel",
+    "className": "AccountJournalAccountJournalGroupRel",
+    "filePath": "account\\account.journalaccountjournalgrouprel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_journal_account_reconcile_model_rel",
+    "className": "AccountJournalAccountReconcileModelRel",
+    "filePath": "account\\account.journalaccountreconcilemodelrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_journal_group",
+    "className": "AccountJournalGroup",
+    "filePath": "account\\account.journalgroup.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_lock_exception",
+    "className": "AccountLockException",
+    "filePath": "account\\account.lockexception.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_merge_wizard",
+    "className": "AccountMergeWizard",
+    "filePath": "account\\account.mergewizard.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_merge_wizard_line",
+    "className": "AccountMergeWizardLine",
+    "filePath": "account\\account.mergewizardline.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_move",
+    "className": "AccountMove",
+    "filePath": "account\\account.move.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_move_account_move_send_batch_wizard_rel",
+    "className": "AccountMoveAccountMoveSendBatchWizardRel",
+    "filePath": "account\\account.moveaccountmovesendbatchwizardrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_move__account_payment",
+    "className": "AccountMoveAccountPayment",
+    "filePath": "account\\account.moveaccountpayment.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_move_account_resequence_wizard_rel",
+    "className": "AccountMoveAccountResequenceWizardRel",
+    "filePath": "account\\account.moveaccountresequencewizardrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_move_line",
+    "className": "AccountMoveLine",
+    "filePath": "account\\account.moveline.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_move_line_account_tax_rel",
+    "className": "AccountMoveLineAccountTaxRel",
+    "filePath": "account\\account.movelineaccounttaxrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_move_purchase_order_rel",
+    "className": "AccountMovePurchaseOrderRel",
+    "filePath": "account\\account.movepurchaseorderrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_move_reversal",
+    "className": "AccountMoveReversal",
+    "filePath": "account\\account.movereversal.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_move_reversal_move",
+    "className": "AccountMoveReversalMove",
+    "filePath": "account\\account.movereversalmove.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_move_reversal_new_move",
+    "className": "AccountMoveReversalNewMove",
+    "filePath": "account\\account.movereversalnewmove.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_move_send_batch_wizard",
+    "className": "AccountMoveSendBatchWizard",
+    "filePath": "account\\account.movesendbatchwizard.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_move_send_wizard",
+    "className": "AccountMoveSendWizard",
+    "filePath": "account\\account.movesendwizard.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_move_send_wizard_res_partner_rel",
+    "className": "AccountMoveSendWizardResPartnerRel",
+    "filePath": "account\\account.movesendwizardrespartnerrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_move_validate_account_move_rel",
+    "className": "AccountMoveValidateAccountMoveRel",
+    "filePath": "account\\account.movevalidateaccountmoverel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_partial_reconcile",
+    "className": "AccountPartialReconcile",
+    "filePath": "account\\account.partialreconcile.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_payment",
+    "className": "AccountPayment",
+    "filePath": "account\\account.payment.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_payment_account_bank_statement_line_rel",
+    "className": "AccountPaymentAccountBankStatementLineRel",
+    "filePath": "account\\account.paymentaccountbankstatementlinerel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_payment_method",
+    "className": "AccountPaymentMethod",
+    "filePath": "account\\account.paymentmethod.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_payment_method_line",
+    "className": "AccountPaymentMethodLine",
+    "filePath": "account\\account.paymentmethodline.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_payment_register",
+    "className": "AccountPaymentRegister",
+    "filePath": "account\\account.paymentregister.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_payment_register_move_line_rel",
+    "className": "AccountPaymentRegisterMoveLineRel",
+    "filePath": "account\\account.paymentregistermovelinerel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_payment_term",
+    "className": "AccountPaymentTerm",
+    "filePath": "account\\account.paymentterm.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_payment_term_line",
+    "className": "AccountPaymentTermLine",
+    "filePath": "account\\account.paymenttermline.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_reconcile_model",
+    "className": "AccountReconcileModel",
+    "filePath": "account\\account.reconcilemodel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_reconcile_model_line",
+    "className": "AccountReconcileModelLine",
+    "filePath": "account\\account.reconcilemodelline.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_reconcile_model_line_account_tax_rel",
+    "className": "AccountReconcileModelLineAccountTaxRel",
+    "filePath": "account\\account.reconcilemodellineaccounttaxrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_reconcile_model_res_partner_rel",
+    "className": "AccountReconcileModelResPartnerRel",
+    "filePath": "account\\account.reconcilemodelrespartnerrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_report",
+    "className": "AccountReport",
+    "filePath": "account\\account.report.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_report_column",
+    "className": "AccountReportColumn",
+    "filePath": "account\\account.reportcolumn.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_report_expression",
+    "className": "AccountReportExpression",
+    "filePath": "account\\account.reportexpression.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_report_external_value",
+    "className": "AccountReportExternalValue",
+    "filePath": "account\\account.reportexternalvalue.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_report_line",
+    "className": "AccountReportLine",
+    "filePath": "account\\account.reportline.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_report_section_rel",
+    "className": "AccountReportSectionRel",
+    "filePath": "account\\account.reportsectionrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_resequence_wizard",
+    "className": "AccountResequenceWizard",
+    "filePath": "account\\account.resequencewizard.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_secure_entries_wizard",
+    "className": "AccountSecureEntriesWizard",
+    "filePath": "account\\account.secureentrieswizard.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_setup_bank_manual_config",
+    "className": "AccountSetupBankManualConfig",
+    "filePath": "account\\account.setupbankmanualconfig.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_tax",
+    "className": "AccountTax",
+    "filePath": "account\\account.tax.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_tax_alternatives",
+    "className": "AccountTaxAlternatives",
+    "filePath": "account\\account.taxalternatives.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_tax_filiation_rel",
+    "className": "AccountTaxFiliationRel",
+    "filePath": "account\\account.taxfiliationrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_tax_group",
+    "className": "AccountTaxGroup",
+    "filePath": "account\\account.taxgroup.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_tax_purchase_order_line_rel",
+    "className": "AccountTaxPurchaseOrderLineRel",
+    "filePath": "account\\account.taxpurchaseorderlinerel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_tax_repartition_line",
+    "className": "AccountTaxRepartitionLine",
+    "filePath": "account\\account.taxrepartitionline.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "account",
+    "tableName": "account_tax_sale_order_line_rel",
+    "className": "AccountTaxSaleOrderLineRel",
+    "filePath": "account\\account.taxsaleorderlinerel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "activity",
+    "tableName": "activity_attachment_rel",
+    "className": "ActivityAttachmentRel",
+    "filePath": "activity\\activity.attachmentrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "adjusting",
+    "tableName": "adjusting_entries__account_move",
+    "className": "AdjustingEntriesAccountMove",
+    "filePath": "adjusting\\adjusting.entriesaccountmove.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "auth",
+    "tableName": "auth_passkey_key",
+    "className": "AuthPasskeyKey",
+    "filePath": "auth\\auth.passkeykey.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "auth",
+    "tableName": "auth_passkey_key_create",
+    "className": "AuthPasskeyKeyCreate",
+    "filePath": "auth\\auth.passkeykeycreate.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "auth",
+    "tableName": "auth_totp_device",
+    "className": "AuthTotpDevice",
+    "filePath": "auth\\auth.totpdevice.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "auth",
+    "tableName": "auth_totp_rate_limit_log",
+    "className": "AuthTotpRateLimitLog",
+    "filePath": "auth\\auth.totpratelimitlog.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "auth",
+    "tableName": "auth_totp_wizard",
+    "className": "AuthTotpWizard",
+    "filePath": "auth\\auth.totpwizard.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "badge",
+    "tableName": "badge_unlocked_definition_rel",
+    "className": "BadgeUnlockedDefinitionRel",
+    "filePath": "badge\\badge.unlockeddefinitionrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "barcode",
+    "tableName": "barcode_nomenclature",
+    "className": "BarcodeNomenclature",
+    "filePath": "barcode\\barcode.nomenclature.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "barcode",
+    "tableName": "barcode_rule",
+    "className": "BarcodeRule",
+    "filePath": "barcode\\barcode.rule.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "base",
+    "tableName": "base_document_layout",
+    "className": "BaseDocumentLayout",
+    "filePath": "base\\base.documentlayout.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "base",
+    "tableName": "base_enable_profiling_wizard",
+    "className": "BaseEnableProfilingWizard",
+    "filePath": "base\\base.enableprofilingwizard.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "base",
+    "tableName": "base_import_import",
+    "className": "BaseImportImport",
+    "filePath": "base\\base.importimport.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "base",
+    "tableName": "base_import_mapping",
+    "className": "BaseImportMapping",
+    "filePath": "base\\base.importmapping.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "base",
+    "tableName": "base_import_module",
+    "className": "BaseImportModule",
+    "filePath": "base\\base.importmodule.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "base",
+    "tableName": "base_language_export",
+    "className": "BaseLanguageExport",
+    "filePath": "base\\base.languageexport.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "base",
+    "tableName": "base_language_import",
+    "className": "BaseLanguageImport",
+    "filePath": "base\\base.languageimport.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "base",
+    "tableName": "base_language_install",
+    "className": "BaseLanguageInstall",
+    "filePath": "base\\base.languageinstall.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "base",
+    "tableName": "base_language_install_website_rel",
+    "className": "BaseLanguageInstallWebsiteRel",
+    "filePath": "base\\base.languageinstallwebsiterel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "base",
+    "tableName": "base_module_install_request",
+    "className": "BaseModuleInstallRequest",
+    "filePath": "base\\base.moduleinstallrequest.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "base",
+    "tableName": "base_module_install_review",
+    "className": "BaseModuleInstallReview",
+    "filePath": "base\\base.moduleinstallreview.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "base",
+    "tableName": "base_module_uninstall",
+    "className": "BaseModuleUninstall",
+    "filePath": "base\\base.moduleuninstall.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "base",
+    "tableName": "base_module_uninstall_ir_module_module_rel",
+    "className": "BaseModuleUninstallIrModuleModuleRel",
+    "filePath": "base\\base.moduleuninstallirmodulemodulerel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "base",
+    "tableName": "base_module_update",
+    "className": "BaseModuleUpdate",
+    "filePath": "base\\base.moduleupdate.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "base",
+    "tableName": "base_module_upgrade",
+    "className": "BaseModuleUpgrade",
+    "filePath": "base\\base.moduleupgrade.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "base",
+    "tableName": "base_partner_merge_automatic_wizard",
+    "className": "BasePartnerMergeAutomaticWizard",
+    "filePath": "base\\base.partnermergeautomaticwizard.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "base",
+    "tableName": "base_partner_merge_automatic_wizard_res_partner_rel",
+    "className": "BasePartnerMergeAutomaticWizardResPartnerRel",
+    "filePath": "base\\base.partnermergeautomaticwizardrespartnerrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "base",
+    "tableName": "base_partner_merge_line",
+    "className": "BasePartnerMergeLine",
+    "filePath": "base\\base.partnermergeline.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "bill",
+    "tableName": "bill_to_po_wizard",
+    "className": "BillToPoWizard",
+    "filePath": "bill\\bill.topowizard.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "bus",
+    "tableName": "bus_bus",
+    "className": "BusBus",
+    "filePath": "bus\\bus.bus.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "calendar",
+    "tableName": "calendar_alarm",
+    "className": "CalendarAlarm",
+    "filePath": "calendar\\calendar.alarm.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "calendar",
+    "tableName": "calendar_alarm_calendar_event_rel",
+    "className": "CalendarAlarmCalendarEventRel",
+    "filePath": "calendar\\calendar.alarmcalendareventrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "calendar",
+    "tableName": "calendar_attendee",
+    "className": "CalendarAttendee",
+    "filePath": "calendar\\calendar.attendee.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "calendar",
+    "tableName": "calendar_event",
+    "className": "CalendarEvent",
+    "filePath": "calendar\\calendar.event.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "calendar",
+    "tableName": "calendar_event_res_partner_rel",
+    "className": "CalendarEventResPartnerRel",
+    "filePath": "calendar\\calendar.eventrespartnerrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "calendar",
+    "tableName": "calendar_event_type",
+    "className": "CalendarEventType",
+    "filePath": "calendar\\calendar.eventtype.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "calendar",
+    "tableName": "calendar_filters",
+    "className": "CalendarFilters",
+    "filePath": "calendar\\calendar.filters.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "calendar",
+    "tableName": "calendar_popover_delete_wizard",
+    "className": "CalendarPopoverDeleteWizard",
+    "filePath": "calendar\\calendar.popoverdeletewizard.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "calendar",
+    "tableName": "calendar_provider_config",
+    "className": "CalendarProviderConfig",
+    "filePath": "calendar\\calendar.providerconfig.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "calendar",
+    "tableName": "calendar_recurrence",
+    "className": "CalendarRecurrence",
+    "filePath": "calendar\\calendar.recurrence.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "change",
+    "tableName": "change_password_own",
+    "className": "ChangePasswordOwn",
+    "filePath": "change\\change.passwordown.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "change",
+    "tableName": "change_password_user",
+    "className": "ChangePasswordUser",
+    "filePath": "change\\change.passworduser.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "change",
+    "tableName": "change_password_wizard",
+    "className": "ChangePasswordWizard",
+    "filePath": "change\\change.passwordwizard.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "change",
+    "tableName": "change_production_qty",
+    "className": "ChangeProductionQty",
+    "filePath": "change\\change.productionqty.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "confirm",
+    "tableName": "confirm_stock_sms",
+    "className": "ConfirmStockSms",
+    "filePath": "confirm\\confirm.stocksms.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "crm",
+    "tableName": "crm_convert_lead_mass_lead_rel",
+    "className": "CrmConvertLeadMassLeadRel",
+    "filePath": "crm\\crm.convertleadmassleadrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "crm",
+    "tableName": "crm_iap_lead_helpers",
+    "className": "CrmIapLeadHelpers",
+    "filePath": "crm\\crm.iapleadhelpers.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "crm",
+    "tableName": "crm_iap_lead_industry",
+    "className": "CrmIapLeadIndustry",
+    "filePath": "crm\\crm.iapleadindustry.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "crm",
+    "tableName": "crm_iap_lead_industry_crm_iap_lead_mining_request_rel",
+    "className": "CrmIapLeadIndustryCrmIapLeadMiningRequestRel",
+    "filePath": "crm\\crm.iapleadindustrycrmiapleadminingrequestrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "crm",
+    "tableName": "crm_iap_lead_mining_request",
+    "className": "CrmIapLeadMiningRequest",
+    "filePath": "crm\\crm.iapleadminingrequest.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "crm",
+    "tableName": "crm_iap_lead_mining_request_crm_iap_lead_role_rel",
+    "className": "CrmIapLeadMiningRequestCrmIapLeadRoleRel",
+    "filePath": "crm\\crm.iapleadminingrequestcrmiapleadrolerel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "crm",
+    "tableName": "crm_iap_lead_mining_request_crm_tag_rel",
+    "className": "CrmIapLeadMiningRequestCrmTagRel",
+    "filePath": "crm\\crm.iapleadminingrequestcrmtagrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "crm",
+    "tableName": "crm_iap_lead_mining_request_res_country_rel",
+    "className": "CrmIapLeadMiningRequestResCountryRel",
+    "filePath": "crm\\crm.iapleadminingrequestrescountryrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "crm",
+    "tableName": "crm_iap_lead_mining_request_res_country_state_rel",
+    "className": "CrmIapLeadMiningRequestResCountryStateRel",
+    "filePath": "crm\\crm.iapleadminingrequestrescountrystaterel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "crm",
+    "tableName": "crm_iap_lead_role",
+    "className": "CrmIapLeadRole",
+    "filePath": "crm\\crm.iapleadrole.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "crm",
+    "tableName": "crm_iap_lead_seniority",
+    "className": "CrmIapLeadSeniority",
+    "filePath": "crm\\crm.iapleadseniority.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "crm",
+    "tableName": "crm_lead",
+    "className": "CrmLead",
+    "filePath": "crm\\crm.lead.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "crm",
+    "tableName": "crm_lead2opportunity_partner",
+    "className": "CrmLead2opportunityPartner",
+    "filePath": "crm\\crm.lead2opportunitypartner.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "crm",
+    "tableName": "crm_lead2opportunity_partner_mass",
+    "className": "CrmLead2opportunityPartnerMass",
+    "filePath": "crm\\crm.lead2opportunitypartnermass.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "crm",
+    "tableName": "crm_lead2opportunity_partner_mass_res_users_rel",
+    "className": "CrmLead2opportunityPartnerMassResUsersRel",
+    "filePath": "crm\\crm.lead2opportunitypartnermassresusersrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "crm",
+    "tableName": "crm_lead_crm_lead2opportunity_partner_mass_rel",
+    "className": "CrmLeadCrmLead2opportunityPartnerMassRel",
+    "filePath": "crm\\crm.leadcrmlead2opportunitypartnermassrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "crm",
+    "tableName": "crm_lead_crm_lead2opportunity_partner_rel",
+    "className": "CrmLeadCrmLead2opportunityPartnerRel",
+    "filePath": "crm\\crm.leadcrmlead2opportunitypartnerrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "crm",
+    "tableName": "crm_lead_crm_lead_lost_rel",
+    "className": "CrmLeadCrmLeadLostRel",
+    "filePath": "crm\\crm.leadcrmleadlostrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "crm",
+    "tableName": "crm_lead_lost",
+    "className": "CrmLeadLost",
+    "filePath": "crm\\crm.leadlost.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "crm",
+    "tableName": "crm_lead_pls_update",
+    "className": "CrmLeadPlsUpdate",
+    "filePath": "crm\\crm.leadplsupdate.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "crm",
+    "tableName": "crm_lead_pls_update_crm_lead_scoring_frequency_field_rel",
+    "className": "CrmLeadPlsUpdateCrmLeadScoringFrequencyFieldRel",
+    "filePath": "crm\\crm.leadplsupdatecrmleadscoringfrequencyfieldrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "crm",
+    "tableName": "crm_lead_scoring_frequency",
+    "className": "CrmLeadScoringFrequency",
+    "filePath": "crm\\crm.leadscoringfrequency.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "crm",
+    "tableName": "crm_lead_scoring_frequency_field",
+    "className": "CrmLeadScoringFrequencyField",
+    "filePath": "crm\\crm.leadscoringfrequencyfield.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "crm",
+    "tableName": "crm_lead_website_visitor_rel",
+    "className": "CrmLeadWebsiteVisitorRel",
+    "filePath": "crm\\crm.leadwebsitevisitorrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "crm",
+    "tableName": "crm_lost_reason",
+    "className": "CrmLostReason",
+    "filePath": "crm\\crm.lostreason.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "crm",
+    "tableName": "crm_merge_opportunity",
+    "className": "CrmMergeOpportunity",
+    "filePath": "crm\\crm.mergeopportunity.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "crm",
+    "tableName": "crm_quotation_partner",
+    "className": "CrmQuotationPartner",
+    "filePath": "crm\\crm.quotationpartner.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "crm",
+    "tableName": "crm_recurring_plan",
+    "className": "CrmRecurringPlan",
+    "filePath": "crm\\crm.recurringplan.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "crm",
+    "tableName": "crm_stage",
+    "className": "CrmStage",
+    "filePath": "crm\\crm.stage.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "crm",
+    "tableName": "crm_stage_crm_team_rel",
+    "className": "CrmStageCrmTeamRel",
+    "filePath": "crm\\crm.stagecrmteamrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "crm",
+    "tableName": "crm_tag",
+    "className": "CrmTag",
+    "filePath": "crm\\crm.tag.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "crm",
+    "tableName": "crm_tag_rel",
+    "className": "CrmTagRel",
+    "filePath": "crm\\crm.tagrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "crm",
+    "tableName": "crm_team",
+    "className": "CrmTeam",
+    "filePath": "crm\\crm.team.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "crm",
+    "tableName": "crm_team_member",
+    "className": "CrmTeamMember",
+    "filePath": "crm\\crm.teammember.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "decimal",
+    "tableName": "decimal_precision",
+    "className": "DecimalPrecision",
+    "filePath": "decimal\\decimal.precision.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "digest",
+    "tableName": "digest_digest",
+    "className": "DigestDigest",
+    "filePath": "digest\\digest.digest.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "digest",
+    "tableName": "digest_digest_res_users_rel",
+    "className": "DigestDigestResUsersRel",
+    "filePath": "digest\\digest.digestresusersrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "digest",
+    "tableName": "digest_tip",
+    "className": "DigestTip",
+    "filePath": "digest\\digest.tip.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "digest",
+    "tableName": "digest_tip_res_users_rel",
+    "className": "DigestTipResUsersRel",
+    "filePath": "digest\\digest.tipresusersrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "discuss",
+    "tableName": "discuss_call_history",
+    "className": "DiscussCallHistory",
+    "filePath": "discuss\\discuss.callhistory.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "discuss",
+    "tableName": "discuss_channel",
+    "className": "DiscussChannel",
+    "filePath": "discuss\\discuss.channel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "discuss",
+    "tableName": "discuss_channel_hr_department_rel",
+    "className": "DiscussChannelHrDepartmentRel",
+    "filePath": "discuss\\discuss.channelhrdepartmentrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "discuss",
+    "tableName": "discuss_channel_member",
+    "className": "DiscussChannelMember",
+    "filePath": "discuss\\discuss.channelmember.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "discuss",
+    "tableName": "discuss_channel_res_groups_rel",
+    "className": "DiscussChannelResGroupsRel",
+    "filePath": "discuss\\discuss.channelresgroupsrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "discuss",
+    "tableName": "discuss_channel_rtc_session",
+    "className": "DiscussChannelRtcSession",
+    "filePath": "discuss\\discuss.channelrtcsession.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "discuss",
+    "tableName": "discuss_gif_favorite",
+    "className": "DiscussGifFavorite",
+    "filePath": "discuss\\discuss.giffavorite.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "discuss",
+    "tableName": "discuss_voice_metadata",
+    "className": "DiscussVoiceMetadata",
+    "filePath": "discuss\\discuss.voicemetadata.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "email",
+    "tableName": "email_template_attachment_rel",
+    "className": "EmailTemplateAttachmentRel",
+    "filePath": "email\\email.templateattachmentrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "employee",
+    "tableName": "employee_bank_account_rel",
+    "className": "EmployeeBankAccountRel",
+    "filePath": "employee\\employee.bankaccountrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "employee",
+    "tableName": "employee_category_rel",
+    "className": "EmployeeCategoryRel",
+    "filePath": "employee\\employee.categoryrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "fetchmail",
+    "tableName": "fetchmail_server",
+    "className": "FetchmailServer",
+    "filePath": "fetchmail\\fetchmail.server.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "gamification",
+    "tableName": "gamification_badge",
+    "className": "GamificationBadge",
+    "filePath": "gamification\\gamification.badge.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "gamification",
+    "tableName": "gamification_badge_rule_badge_rel",
+    "className": "GamificationBadgeRuleBadgeRel",
+    "filePath": "gamification\\gamification.badgerulebadgerel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "gamification",
+    "tableName": "gamification_badge_user",
+    "className": "GamificationBadgeUser",
+    "filePath": "gamification\\gamification.badgeuser.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "gamification",
+    "tableName": "gamification_badge_user_wizard",
+    "className": "GamificationBadgeUserWizard",
+    "filePath": "gamification\\gamification.badgeuserwizard.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "gamification",
+    "tableName": "gamification_challenge",
+    "className": "GamificationChallenge",
+    "filePath": "gamification\\gamification.challenge.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "gamification",
+    "tableName": "gamification_challenge_line",
+    "className": "GamificationChallengeLine",
+    "filePath": "gamification\\gamification.challengeline.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "gamification",
+    "tableName": "gamification_challenge_users_rel",
+    "className": "GamificationChallengeUsersRel",
+    "filePath": "gamification\\gamification.challengeusersrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "gamification",
+    "tableName": "gamification_goal",
+    "className": "GamificationGoal",
+    "filePath": "gamification\\gamification.goal.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "gamification",
+    "tableName": "gamification_goal_definition",
+    "className": "GamificationGoalDefinition",
+    "filePath": "gamification\\gamification.goaldefinition.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "gamification",
+    "tableName": "gamification_goal_wizard",
+    "className": "GamificationGoalWizard",
+    "filePath": "gamification\\gamification.goalwizard.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "gamification",
+    "tableName": "gamification_invited_user_ids_rel",
+    "className": "GamificationInvitedUserIdsRel",
+    "filePath": "gamification\\gamification.inviteduseridsrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "gamification",
+    "tableName": "gamification_karma_rank",
+    "className": "GamificationKarmaRank",
+    "filePath": "gamification\\gamification.karmarank.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "gamification",
+    "tableName": "gamification_karma_tracking",
+    "className": "GamificationKarmaTracking",
+    "filePath": "gamification\\gamification.karmatracking.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "header",
+    "tableName": "header_footer_quotation_template_rel",
+    "className": "HeaderFooterQuotationTemplateRel",
+    "filePath": "header\\header.footerquotationtemplaterel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "homework",
+    "tableName": "homework_location_wizard",
+    "className": "HomeworkLocationWizard",
+    "filePath": "homework\\homework.locationwizard.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "hr",
+    "tableName": "hr_bank_account_allocation_wizard",
+    "className": "HrBankAccountAllocationWizard",
+    "filePath": "hr\\hr.bankaccountallocationwizard.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "hr",
+    "tableName": "hr_bank_account_allocation_wizard_line",
+    "className": "HrBankAccountAllocationWizardLine",
+    "filePath": "hr\\hr.bankaccountallocationwizardline.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "hr",
+    "tableName": "hr_contract_type",
+    "className": "HrContractType",
+    "filePath": "hr\\hr.contracttype.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "hr",
+    "tableName": "hr_department",
+    "className": "HrDepartment",
+    "filePath": "hr\\hr.department.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "hr",
+    "tableName": "hr_departure_reason",
+    "className": "HrDepartureReason",
+    "filePath": "hr\\hr.departurereason.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "hr",
+    "tableName": "hr_departure_wizard",
+    "className": "HrDepartureWizard",
+    "filePath": "hr\\hr.departurewizard.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "hr",
+    "tableName": "hr_departure_wizard_hr_employee_rel",
+    "className": "HrDepartureWizardHrEmployeeRel",
+    "filePath": "hr\\hr.departurewizardhremployeerel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "hr",
+    "tableName": "hr_employee",
+    "className": "HrEmployee",
+    "filePath": "hr\\hr.employee.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "hr",
+    "tableName": "hr_employee_category",
+    "className": "HrEmployeeCategory",
+    "filePath": "hr\\hr.employeecategory.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "hr",
+    "tableName": "hr_employee_cv_wizard",
+    "className": "HrEmployeeCvWizard",
+    "filePath": "hr\\hr.employeecvwizard.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "hr",
+    "tableName": "hr_employee_hr_employee_cv_wizard_rel",
+    "className": "HrEmployeeHrEmployeeCvWizardRel",
+    "filePath": "hr\\hr.employeehremployeecvwizardrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "hr",
+    "tableName": "hr_employee_hr_skill_rel",
+    "className": "HrEmployeeHrSkillRel",
+    "filePath": "hr\\hr.employeehrskillrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "hr",
+    "tableName": "hr_employee_location",
+    "className": "HrEmployeeLocation",
+    "filePath": "hr\\hr.employeelocation.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "hr",
+    "tableName": "hr_employee_skill",
+    "className": "HrEmployeeSkill",
+    "filePath": "hr\\hr.employeeskill.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "hr",
+    "tableName": "hr_job",
+    "className": "HrJob",
+    "filePath": "hr\\hr.job.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "hr",
+    "tableName": "hr_job_hr_skill_rel",
+    "className": "HrJobHrSkillRel",
+    "filePath": "hr\\hr.jobhrskillrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "hr",
+    "tableName": "hr_job_skill",
+    "className": "HrJobSkill",
+    "filePath": "hr\\hr.jobskill.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "hr",
+    "tableName": "hr_payroll_structure_type",
+    "className": "HrPayrollStructureType",
+    "filePath": "hr\\hr.payrollstructuretype.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "hr",
+    "tableName": "hr_resume_line",
+    "className": "HrResumeLine",
+    "filePath": "hr\\hr.resumeline.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "hr",
+    "tableName": "hr_resume_line_type",
+    "className": "HrResumeLineType",
+    "filePath": "hr\\hr.resumelinetype.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "hr",
+    "tableName": "hr_skill",
+    "className": "HrSkill",
+    "filePath": "hr\\hr.skill.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "hr",
+    "tableName": "hr_skill_level",
+    "className": "HrSkillLevel",
+    "filePath": "hr\\hr.skilllevel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "hr",
+    "tableName": "hr_skill_type",
+    "className": "HrSkillType",
+    "filePath": "hr\\hr.skilltype.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "hr",
+    "tableName": "hr_version",
+    "className": "HrVersion",
+    "filePath": "hr\\hr.version.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "hr",
+    "tableName": "hr_version_wizard",
+    "className": "HrVersionWizard",
+    "filePath": "hr\\hr.versionwizard.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "hr",
+    "tableName": "hr_work_location",
+    "className": "HrWorkLocation",
+    "filePath": "hr\\hr.worklocation.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "html",
+    "tableName": "html_editor_converter_test",
+    "className": "HtmlEditorConverterTest",
+    "filePath": "html\\html.editorconvertertest.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "html",
+    "tableName": "html_editor_converter_test_sub",
+    "className": "HtmlEditorConverterTestSub",
+    "filePath": "html\\html.editorconvertertestsub.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "iap",
+    "tableName": "iap_account",
+    "className": "IapAccount",
+    "filePath": "iap\\iap.account.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "iap",
+    "tableName": "iap_account_res_company_rel",
+    "className": "IapAccountResCompanyRel",
+    "filePath": "iap\\iap.accountrescompanyrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "iap",
+    "tableName": "iap_account_res_users_rel",
+    "className": "IapAccountResUsersRel",
+    "filePath": "iap\\iap.accountresusersrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "iap",
+    "tableName": "iap_service",
+    "className": "IapService",
+    "filePath": "iap\\iap.service.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_act_client",
+    "className": "IrActClient",
+    "filePath": "ir\\ir.actclient.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_actions",
+    "className": "IrActions",
+    "filePath": "ir\\ir.actions.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_actions_server_history",
+    "className": "IrActionsServerHistory",
+    "filePath": "ir\\ir.actionsserverhistory.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_actions_todo",
+    "className": "IrActionsTodo",
+    "filePath": "ir\\ir.actionstodo.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_act_report_xml",
+    "className": "IrActReportXml",
+    "filePath": "ir\\ir.actreportxml.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_act_server",
+    "className": "IrActServer",
+    "filePath": "ir\\ir.actserver.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_act_server_group_rel",
+    "className": "IrActServerGroupRel",
+    "filePath": "ir\\ir.actservergrouprel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_act_server_res_partner_rel",
+    "className": "IrActServerResPartnerRel",
+    "filePath": "ir\\ir.actserverrespartnerrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_act_server_webhook_field_rel",
+    "className": "IrActServerWebhookFieldRel",
+    "filePath": "ir\\ir.actserverwebhookfieldrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_act_url",
+    "className": "IrActUrl",
+    "filePath": "ir\\ir.acturl.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_act_window",
+    "className": "IrActWindow",
+    "filePath": "ir\\ir.actwindow.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_act_window_group_rel",
+    "className": "IrActWindowGroupRel",
+    "filePath": "ir\\ir.actwindowgrouprel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_act_window_view",
+    "className": "IrActWindowView",
+    "filePath": "ir\\ir.actwindowview.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_asset",
+    "className": "IrAsset",
+    "filePath": "ir\\ir.asset.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_attachment",
+    "className": "IrAttachment",
+    "filePath": "ir\\ir.attachment.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_attachment_slide_channel_invite_rel",
+    "className": "IrAttachmentSlideChannelInviteRel",
+    "filePath": "ir\\ir.attachmentslidechannelinviterel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_config_parameter",
+    "className": "IrConfigParameter",
+    "filePath": "ir\\ir.configparameter.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_cron",
+    "className": "IrCron",
+    "filePath": "ir\\ir.cron.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_cron_progress",
+    "className": "IrCronProgress",
+    "filePath": "ir\\ir.cronprogress.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_cron_trigger",
+    "className": "IrCronTrigger",
+    "filePath": "ir\\ir.crontrigger.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_default",
+    "className": "IrDefault",
+    "filePath": "ir\\ir.default.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_demo",
+    "className": "IrDemo",
+    "filePath": "ir\\ir.demo.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_demo_failure",
+    "className": "IrDemoFailure",
+    "filePath": "ir\\ir.demofailure.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_demo_failure_wizard",
+    "className": "IrDemoFailureWizard",
+    "filePath": "ir\\ir.demofailurewizard.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_embedded_actions",
+    "className": "IrEmbeddedActions",
+    "filePath": "ir\\ir.embeddedactions.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_embedded_actions_res_groups_rel",
+    "className": "IrEmbeddedActionsResGroupsRel",
+    "filePath": "ir\\ir.embeddedactionsresgroupsrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_exports",
+    "className": "IrExports",
+    "filePath": "ir\\ir.exports.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_exports_line",
+    "className": "IrExportsLine",
+    "filePath": "ir\\ir.exportsline.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_filters",
+    "className": "IrFilters",
+    "filePath": "ir\\ir.filters.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_filters_res_users_rel",
+    "className": "IrFiltersResUsersRel",
+    "filePath": "ir\\ir.filtersresusersrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_logging",
+    "className": "IrLogging",
+    "filePath": "ir\\ir.logging.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_mail_server",
+    "className": "IrMailServer",
+    "filePath": "ir\\ir.mailserver.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_model",
+    "className": "IrModel",
+    "filePath": "ir\\ir.model.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_model_access",
+    "className": "IrModelAccess",
+    "filePath": "ir\\ir.modelaccess.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_model_constraint",
+    "className": "IrModelConstraint",
+    "filePath": "ir\\ir.modelconstraint.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_model_data",
+    "className": "IrModelData",
+    "filePath": "ir\\ir.modeldata.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_model_fields",
+    "className": "IrModelFields",
+    "filePath": "ir\\ir.modelfields.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_model_fields_group_rel",
+    "className": "IrModelFieldsGroupRel",
+    "filePath": "ir\\ir.modelfieldsgrouprel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_model_fields_selection",
+    "className": "IrModelFieldsSelection",
+    "filePath": "ir\\ir.modelfieldsselection.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_model_inherit",
+    "className": "IrModelInherit",
+    "filePath": "ir\\ir.modelinherit.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_model_relation",
+    "className": "IrModelRelation",
+    "filePath": "ir\\ir.modelrelation.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_model_spreadsheet_dashboard_rel",
+    "className": "IrModelSpreadsheetDashboardRel",
+    "filePath": "ir\\ir.modelspreadsheetdashboardrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_module_category",
+    "className": "IrModuleCategory",
+    "filePath": "ir\\ir.modulecategory.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_module_module",
+    "className": "IrModuleModule",
+    "filePath": "ir\\ir.modulemodule.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_module_module_dependency",
+    "className": "IrModuleModuleDependency",
+    "filePath": "ir\\ir.modulemoduledependency.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_module_module_exclusion",
+    "className": "IrModuleModuleExclusion",
+    "filePath": "ir\\ir.modulemoduleexclusion.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_profile",
+    "className": "IrProfile",
+    "filePath": "ir\\ir.profile.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_rule",
+    "className": "IrRule",
+    "filePath": "ir\\ir.rule.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_sequence",
+    "className": "IrSequence",
+    "filePath": "ir\\ir.sequence.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_sequence_date_range",
+    "className": "IrSequenceDateRange",
+    "filePath": "ir\\ir.sequencedaterange.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_ui_menu",
+    "className": "IrUiMenu",
+    "filePath": "ir\\ir.uimenu.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_ui_menu_group_rel",
+    "className": "IrUiMenuGroupRel",
+    "filePath": "ir\\ir.uimenugrouprel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_ui_view",
+    "className": "IrUiView",
+    "filePath": "ir\\ir.uiview.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_ui_view_custom",
+    "className": "IrUiViewCustom",
+    "filePath": "ir\\ir.uiviewcustom.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "ir",
+    "tableName": "ir_ui_view_group_rel",
+    "className": "IrUiViewGroupRel",
+    "filePath": "ir\\ir.uiviewgrouprel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "lot",
+    "tableName": "lot_label_layout",
+    "className": "LotLabelLayout",
+    "filePath": "lot\\lot.labellayout.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "lot",
+    "tableName": "lot_label_layout_stock_move_line_rel",
+    "className": "LotLabelLayoutStockMoveLineRel",
+    "filePath": "lot\\lot.labellayoutstockmovelinerel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_activity",
+    "className": "MailActivity",
+    "filePath": "mail\\mail.activity.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_activity_plan",
+    "className": "MailActivityPlan",
+    "filePath": "mail\\mail.activityplan.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_activity_plan_mail_activity_schedule_rel",
+    "className": "MailActivityPlanMailActivityScheduleRel",
+    "filePath": "mail\\mail.activityplanmailactivityschedulerel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_activity_plan_template",
+    "className": "MailActivityPlanTemplate",
+    "filePath": "mail\\mail.activityplantemplate.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_activity_plan_template_mail_activity_type_rel",
+    "className": "MailActivityPlanTemplateMailActivityTypeRel",
+    "filePath": "mail\\mail.activityplantemplatemailactivitytyperel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_activity_rel",
+    "className": "MailActivityRel",
+    "filePath": "mail\\mail.activityrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_activity_schedule",
+    "className": "MailActivitySchedule",
+    "filePath": "mail\\mail.activityschedule.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_activity_schedule_line",
+    "className": "MailActivityScheduleLine",
+    "filePath": "mail\\mail.activityscheduleline.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_activity_todo_create",
+    "className": "MailActivityTodoCreate",
+    "filePath": "mail\\mail.activitytodocreate.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_activity_type",
+    "className": "MailActivityType",
+    "filePath": "mail\\mail.activitytype.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_activity_type_mail_template_rel",
+    "className": "MailActivityTypeMailTemplateRel",
+    "filePath": "mail\\mail.activitytypemailtemplaterel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_alias",
+    "className": "MailAlias",
+    "filePath": "mail\\mail.alias.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_alias_domain",
+    "className": "MailAliasDomain",
+    "filePath": "mail\\mail.aliasdomain.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_blacklist",
+    "className": "MailBlacklist",
+    "filePath": "mail\\mail.blacklist.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_blacklist_remove",
+    "className": "MailBlacklistRemove",
+    "filePath": "mail\\mail.blacklistremove.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_canned_response",
+    "className": "MailCannedResponse",
+    "filePath": "mail\\mail.cannedresponse.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_canned_response_res_groups_rel",
+    "className": "MailCannedResponseResGroupsRel",
+    "filePath": "mail\\mail.cannedresponseresgroupsrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_compose_message",
+    "className": "MailComposeMessage",
+    "filePath": "mail\\mail.composemessage.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_compose_message_ir_attachments_rel",
+    "className": "MailComposeMessageIrAttachmentsRel",
+    "filePath": "mail\\mail.composemessageirattachmentsrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_compose_message_res_partner_rel",
+    "className": "MailComposeMessageResPartnerRel",
+    "filePath": "mail\\mail.composemessagerespartnerrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_followers",
+    "className": "MailFollowers",
+    "filePath": "mail\\mail.followers.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_followers_edit",
+    "className": "MailFollowersEdit",
+    "filePath": "mail\\mail.followersedit.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_followers_edit_res_partner_rel",
+    "className": "MailFollowersEditResPartnerRel",
+    "filePath": "mail\\mail.followerseditrespartnerrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_followers_mail_message_subtype_rel",
+    "className": "MailFollowersMailMessageSubtypeRel",
+    "filePath": "mail\\mail.followersmailmessagesubtyperel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_gateway_allowed",
+    "className": "MailGatewayAllowed",
+    "filePath": "mail\\mail.gatewayallowed.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_guest",
+    "className": "MailGuest",
+    "filePath": "mail\\mail.guest.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_ice_server",
+    "className": "MailIceServer",
+    "filePath": "mail\\mail.iceserver.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_link_preview",
+    "className": "MailLinkPreview",
+    "filePath": "mail\\mail.linkpreview.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_mail",
+    "className": "MailMail",
+    "filePath": "mail\\mail.mail.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_mail_res_partner_rel",
+    "className": "MailMailResPartnerRel",
+    "filePath": "mail\\mail.mailrespartnerrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_message",
+    "className": "MailMessage",
+    "filePath": "mail\\mail.message.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_message_link_preview",
+    "className": "MailMessageLinkPreview",
+    "filePath": "mail\\mail.messagelinkpreview.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_message_reaction",
+    "className": "MailMessageReaction",
+    "filePath": "mail\\mail.messagereaction.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_message_res_partner_rel",
+    "className": "MailMessageResPartnerRel",
+    "filePath": "mail\\mail.messagerespartnerrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_message_res_partner_starred_rel",
+    "className": "MailMessageResPartnerStarredRel",
+    "filePath": "mail\\mail.messagerespartnerstarredrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_message_schedule",
+    "className": "MailMessageSchedule",
+    "filePath": "mail\\mail.messageschedule.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_message_subtype",
+    "className": "MailMessageSubtype",
+    "filePath": "mail\\mail.messagesubtype.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_message_translation",
+    "className": "MailMessageTranslation",
+    "filePath": "mail\\mail.messagetranslation.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_notification",
+    "className": "MailNotification",
+    "filePath": "mail\\mail.notification.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_presence",
+    "className": "MailPresence",
+    "filePath": "mail\\mail.presence.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_push",
+    "className": "MailPush",
+    "filePath": "mail\\mail.push.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_push_device",
+    "className": "MailPushDevice",
+    "filePath": "mail\\mail.pushdevice.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_scheduled_message",
+    "className": "MailScheduledMessage",
+    "filePath": "mail\\mail.scheduledmessage.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_scheduled_message_res_partner_rel",
+    "className": "MailScheduledMessageResPartnerRel",
+    "filePath": "mail\\mail.scheduledmessagerespartnerrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_template",
+    "className": "MailTemplate",
+    "filePath": "mail\\mail.template.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_template_ir_actions_report_rel",
+    "className": "MailTemplateIrActionsReportRel",
+    "filePath": "mail\\mail.templateiractionsreportrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_template_mail_template_reset_rel",
+    "className": "MailTemplateMailTemplateResetRel",
+    "filePath": "mail\\mail.templatemailtemplateresetrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_template_preview",
+    "className": "MailTemplatePreview",
+    "filePath": "mail\\mail.templatepreview.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_template_reset",
+    "className": "MailTemplateReset",
+    "filePath": "mail\\mail.templatereset.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mail",
+    "tableName": "mail_tracking_value",
+    "className": "MailTrackingValue",
+    "filePath": "mail\\mail.trackingvalue.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "meeting",
+    "tableName": "meeting_category_rel",
+    "className": "MeetingCategoryRel",
+    "filePath": "meeting\\meeting.categoryrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "merge",
+    "tableName": "merge_opportunity_rel",
+    "className": "MergeOpportunityRel",
+    "filePath": "merge\\merge.opportunityrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "message",
+    "tableName": "message_attachment_rel",
+    "className": "MessageAttachmentRel",
+    "filePath": "message\\message.attachmentrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "module",
+    "tableName": "module_country",
+    "className": "ModuleCountry",
+    "filePath": "module\\module.country.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mrp",
+    "tableName": "mrp_account_wip_accounting",
+    "className": "MrpAccountWipAccounting",
+    "filePath": "mrp\\mrp.accountwipaccounting.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mrp",
+    "tableName": "mrp_account_wip_accounting_line",
+    "className": "MrpAccountWipAccountingLine",
+    "filePath": "mrp\\mrp.accountwipaccountingline.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mrp",
+    "tableName": "mrp_account_wip_accounting_mrp_production_rel",
+    "className": "MrpAccountWipAccountingMrpProductionRel",
+    "filePath": "mrp\\mrp.accountwipaccountingmrpproductionrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mrp",
+    "tableName": "mrp_bom",
+    "className": "MrpBom",
+    "filePath": "mrp\\mrp.bom.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mrp",
+    "tableName": "mrp_bom_byproduct",
+    "className": "MrpBomByproduct",
+    "filePath": "mrp\\mrp.bombyproduct.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mrp",
+    "tableName": "mrp_bom_byproduct_product_template_attribute_value_rel",
+    "className": "MrpBomByproductProductTemplateAttributeValueRel",
+    "filePath": "mrp\\mrp.bombyproductproducttemplateattributevaluerel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mrp",
+    "tableName": "mrp_bom_line",
+    "className": "MrpBomLine",
+    "filePath": "mrp\\mrp.bomline.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mrp",
+    "tableName": "mrp_bom_line_product_template_attribute_value_rel",
+    "className": "MrpBomLineProductTemplateAttributeValueRel",
+    "filePath": "mrp\\mrp.bomlineproducttemplateattributevaluerel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mrp",
+    "tableName": "mrp_bom_stock_replenishment_info_rel",
+    "className": "MrpBomStockReplenishmentInfoRel",
+    "filePath": "mrp\\mrp.bomstockreplenishmentinforel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mrp",
+    "tableName": "mrp_consumption_warning",
+    "className": "MrpConsumptionWarning",
+    "filePath": "mrp\\mrp.consumptionwarning.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mrp",
+    "tableName": "mrp_consumption_warning_line",
+    "className": "MrpConsumptionWarningLine",
+    "filePath": "mrp\\mrp.consumptionwarningline.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mrp",
+    "tableName": "mrp_consumption_warning_mrp_production_rel",
+    "className": "MrpConsumptionWarningMrpProductionRel",
+    "filePath": "mrp\\mrp.consumptionwarningmrpproductionrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mrp",
+    "tableName": "mrp_production",
+    "className": "MrpProduction",
+    "filePath": "mrp\\mrp.production.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mrp",
+    "tableName": "mrp_production_backorder",
+    "className": "MrpProductionBackorder",
+    "filePath": "mrp\\mrp.productionbackorder.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mrp",
+    "tableName": "mrp_production_backorder_line",
+    "className": "MrpProductionBackorderLine",
+    "filePath": "mrp\\mrp.productionbackorderline.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mrp",
+    "tableName": "mrp_production_group",
+    "className": "MrpProductionGroup",
+    "filePath": "mrp\\mrp.productiongroup.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mrp",
+    "tableName": "mrp_production_group_rel",
+    "className": "MrpProductionGroupRel",
+    "filePath": "mrp\\mrp.productiongrouprel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mrp",
+    "tableName": "mrp_production_mrp_production_backorder_rel",
+    "className": "MrpProductionMrpProductionBackorderRel",
+    "filePath": "mrp\\mrp.productionmrpproductionbackorderrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mrp",
+    "tableName": "mrp_production_picking_label_type_rel",
+    "className": "MrpProductionPickingLabelTypeRel",
+    "filePath": "mrp\\mrp.productionpickinglabeltyperel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mrp",
+    "tableName": "mrp_production_serials",
+    "className": "MrpProductionSerials",
+    "filePath": "mrp\\mrp.productionserials.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mrp",
+    "tableName": "mrp_production_split",
+    "className": "MrpProductionSplit",
+    "filePath": "mrp\\mrp.productionsplit.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mrp",
+    "tableName": "mrp_production_split_line",
+    "className": "MrpProductionSplitLine",
+    "filePath": "mrp\\mrp.productionsplitline.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mrp",
+    "tableName": "mrp_production_split_multi",
+    "className": "MrpProductionSplitMulti",
+    "filePath": "mrp\\mrp.productionsplitmulti.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mrp",
+    "tableName": "mrp_production_stock_lot_rel",
+    "className": "MrpProductionStockLotRel",
+    "filePath": "mrp\\mrp.productionstocklotrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mrp",
+    "tableName": "mrp_routing_workcenter",
+    "className": "MrpRoutingWorkcenter",
+    "filePath": "mrp\\mrp.routingworkcenter.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mrp",
+    "tableName": "mrp_routing_workcenter_dependencies_rel",
+    "className": "MrpRoutingWorkcenterDependenciesRel",
+    "filePath": "mrp\\mrp.routingworkcenterdependenciesrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mrp",
+    "tableName": "mrp_routing_workcenter_product_template_attribute_value_rel",
+    "className": "MrpRoutingWorkcenterProductTemplateAttributeValueRel",
+    "filePath": "mrp\\mrp.routingworkcenterproducttemplateattributevaluerel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mrp",
+    "tableName": "mrp_unbuild",
+    "className": "MrpUnbuild",
+    "filePath": "mrp\\mrp.unbuild.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mrp",
+    "tableName": "mrp_workcenter",
+    "className": "MrpWorkcenter",
+    "filePath": "mrp\\mrp.workcenter.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mrp",
+    "tableName": "mrp_workcenter_alternative_rel",
+    "className": "MrpWorkcenterAlternativeRel",
+    "filePath": "mrp\\mrp.workcenteralternativerel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mrp",
+    "tableName": "mrp_workcenter_capacity",
+    "className": "MrpWorkcenterCapacity",
+    "filePath": "mrp\\mrp.workcentercapacity.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mrp",
+    "tableName": "mrp_workcenter_mrp_workcenter_tag_rel",
+    "className": "MrpWorkcenterMrpWorkcenterTagRel",
+    "filePath": "mrp\\mrp.workcentermrpworkcentertagrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mrp",
+    "tableName": "mrp_workcenter_productivity",
+    "className": "MrpWorkcenterProductivity",
+    "filePath": "mrp\\mrp.workcenterproductivity.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mrp",
+    "tableName": "mrp_workcenter_productivity_loss",
+    "className": "MrpWorkcenterProductivityLoss",
+    "filePath": "mrp\\mrp.workcenterproductivityloss.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mrp",
+    "tableName": "mrp_workcenter_productivity_loss_type",
+    "className": "MrpWorkcenterProductivityLossType",
+    "filePath": "mrp\\mrp.workcenterproductivitylosstype.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mrp",
+    "tableName": "mrp_workcenter_tag",
+    "className": "MrpWorkcenterTag",
+    "filePath": "mrp\\mrp.workcentertag.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mrp",
+    "tableName": "mrp_workorder",
+    "className": "MrpWorkorder",
+    "filePath": "mrp\\mrp.workorder.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mrp",
+    "tableName": "mrp_workorder_dependencies_rel",
+    "className": "MrpWorkorderDependenciesRel",
+    "filePath": "mrp\\mrp.workorderdependenciesrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mrp",
+    "tableName": "mrp_workorder_mo_analytic_rel",
+    "className": "MrpWorkorderMoAnalyticRel",
+    "filePath": "mrp\\mrp.workordermoanalyticrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "mrp",
+    "tableName": "mrp_workorder_wc_analytic_rel",
+    "className": "MrpWorkorderWcAnalyticRel",
+    "filePath": "mrp\\mrp.workorderwcanalyticrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "onboarding",
+    "tableName": "onboarding_onboarding",
+    "className": "OnboardingOnboarding",
+    "filePath": "onboarding\\onboarding.onboarding.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "onboarding",
+    "tableName": "onboarding_onboarding_onboarding_onboarding_step_rel",
+    "className": "OnboardingOnboardingOnboardingOnboardingStepRel",
+    "filePath": "onboarding\\onboarding.onboardingonboardingonboardingsteprel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "onboarding",
+    "tableName": "onboarding_onboarding_step",
+    "className": "OnboardingOnboardingStep",
+    "filePath": "onboarding\\onboarding.onboardingstep.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "onboarding",
+    "tableName": "onboarding_progress",
+    "className": "OnboardingProgress",
+    "filePath": "onboarding\\onboarding.progress.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "onboarding",
+    "tableName": "onboarding_progress_onboarding_progress_step_rel",
+    "className": "OnboardingProgressOnboardingProgressStepRel",
+    "filePath": "onboarding\\onboarding.progressonboardingprogresssteprel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "onboarding",
+    "tableName": "onboarding_progress_step",
+    "className": "OnboardingProgressStep",
+    "filePath": "onboarding\\onboarding.progressstep.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "orm",
+    "tableName": "orm_signaling_assets",
+    "className": "OrmSignalingAssets",
+    "filePath": "orm\\orm.signalingassets.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "orm",
+    "tableName": "orm_signaling_default",
+    "className": "OrmSignalingDefault",
+    "filePath": "orm\\orm.signalingdefault.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "orm",
+    "tableName": "orm_signaling_groups",
+    "className": "OrmSignalingGroups",
+    "filePath": "orm\\orm.signalinggroups.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "orm",
+    "tableName": "orm_signaling_registry",
+    "className": "OrmSignalingRegistry",
+    "filePath": "orm\\orm.signalingregistry.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "orm",
+    "tableName": "orm_signaling_routing",
+    "className": "OrmSignalingRouting",
+    "filePath": "orm\\orm.signalingrouting.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "orm",
+    "tableName": "orm_signaling_stable",
+    "className": "OrmSignalingStable",
+    "filePath": "orm\\orm.signalingstable.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "orm",
+    "tableName": "orm_signaling_templates",
+    "className": "OrmSignalingTemplates",
+    "filePath": "orm\\orm.signalingtemplates.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "payment",
+    "tableName": "payment_capture_wizard",
+    "className": "PaymentCaptureWizard",
+    "filePath": "payment\\payment.capturewizard.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "payment",
+    "tableName": "payment_capture_wizard_payment_transaction_rel",
+    "className": "PaymentCaptureWizardPaymentTransactionRel",
+    "filePath": "payment\\payment.capturewizardpaymenttransactionrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "payment",
+    "tableName": "payment_country_rel",
+    "className": "PaymentCountryRel",
+    "filePath": "payment\\payment.countryrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "payment",
+    "tableName": "payment_currency_rel",
+    "className": "PaymentCurrencyRel",
+    "filePath": "payment\\payment.currencyrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "payment",
+    "tableName": "payment_link_wizard",
+    "className": "PaymentLinkWizard",
+    "filePath": "payment\\payment.linkwizard.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "payment",
+    "tableName": "payment_method",
+    "className": "PaymentMethod",
+    "filePath": "payment\\payment.method.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "payment",
+    "tableName": "payment_method_payment_provider_rel",
+    "className": "PaymentMethodPaymentProviderRel",
+    "filePath": "payment\\payment.methodpaymentproviderrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "payment",
+    "tableName": "payment_method_res_country_rel",
+    "className": "PaymentMethodResCountryRel",
+    "filePath": "payment\\payment.methodrescountryrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "payment",
+    "tableName": "payment_method_res_currency_rel",
+    "className": "PaymentMethodResCurrencyRel",
+    "filePath": "payment\\payment.methodrescurrencyrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "payment",
+    "tableName": "payment_provider",
+    "className": "PaymentProvider",
+    "filePath": "payment\\payment.provider.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "payment",
+    "tableName": "payment_refund_wizard",
+    "className": "PaymentRefundWizard",
+    "filePath": "payment\\payment.refundwizard.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "payment",
+    "tableName": "payment_token",
+    "className": "PaymentToken",
+    "filePath": "payment\\payment.token.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "payment",
+    "tableName": "payment_transaction",
+    "className": "PaymentTransaction",
+    "filePath": "payment\\payment.transaction.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "phone",
+    "tableName": "phone_blacklist",
+    "className": "PhoneBlacklist",
+    "filePath": "phone\\phone.blacklist.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "phone",
+    "tableName": "phone_blacklist_remove",
+    "className": "PhoneBlacklistRemove",
+    "filePath": "phone\\phone.blacklistremove.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "picking",
+    "tableName": "picking_label_type",
+    "className": "PickingLabelType",
+    "filePath": "picking\\picking.labeltype.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "picking",
+    "tableName": "picking_label_type_stock_picking_rel",
+    "className": "PickingLabelTypeStockPickingRel",
+    "filePath": "picking\\picking.labeltypestockpickingrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "picking",
+    "tableName": "picking_type_favorite_user_rel",
+    "className": "PickingTypeFavoriteUserRel",
+    "filePath": "picking\\picking.typefavoriteuserrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "portal",
+    "tableName": "portal_share",
+    "className": "PortalShare",
+    "filePath": "portal\\portal.share.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "portal",
+    "tableName": "portal_share_res_partner_rel",
+    "className": "PortalShareResPartnerRel",
+    "filePath": "portal\\portal.sharerespartnerrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "portal",
+    "tableName": "portal_wizard",
+    "className": "PortalWizard",
+    "filePath": "portal\\portal.wizard.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "portal",
+    "tableName": "portal_wizard_res_partner_rel",
+    "className": "PortalWizardResPartnerRel",
+    "filePath": "portal\\portal.wizardrespartnerrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "portal",
+    "tableName": "portal_wizard_user",
+    "className": "PortalWizardUser",
+    "filePath": "portal\\portal.wizarduser.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "privacy",
+    "tableName": "privacy_log",
+    "className": "PrivacyLog",
+    "filePath": "privacy\\privacy.log.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "privacy",
+    "tableName": "privacy_lookup_wizard",
+    "className": "PrivacyLookupWizard",
+    "filePath": "privacy\\privacy.lookupwizard.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "privacy",
+    "tableName": "privacy_lookup_wizard_line",
+    "className": "PrivacyLookupWizardLine",
+    "filePath": "privacy\\privacy.lookupwizardline.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "product",
+    "tableName": "product_attr_exclusion_value_ids_rel",
+    "className": "ProductAttrExclusionValueIdsRel",
+    "filePath": "product\\product.attrexclusionvalueidsrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "product",
+    "tableName": "product_attribute",
+    "className": "ProductAttribute",
+    "filePath": "product\\product.attribute.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "product",
+    "tableName": "product_attribute_custom_value",
+    "className": "ProductAttributeCustomValue",
+    "filePath": "product\\product.attributecustomvalue.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "product",
+    "tableName": "product_attribute_product_template_rel",
+    "className": "ProductAttributeProductTemplateRel",
+    "filePath": "product\\product.attributeproducttemplaterel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "product",
+    "tableName": "product_attribute_value",
+    "className": "ProductAttributeValue",
+    "filePath": "product\\product.attributevalue.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "product",
+    "tableName": "product_attribute_value_product_template_attribute_line_rel",
+    "className": "ProductAttributeValueProductTemplateAttributeLineRel",
+    "filePath": "product\\product.attributevalueproducttemplateattributelinerel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "product",
+    "tableName": "product_category",
+    "className": "ProductCategory",
+    "filePath": "product\\product.category.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "product",
+    "tableName": "product_combo",
+    "className": "ProductCombo",
+    "filePath": "product\\product.combo.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "product",
+    "tableName": "product_combo_item",
+    "className": "ProductComboItem",
+    "filePath": "product\\product.comboitem.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "product",
+    "tableName": "product_combo_product_template_rel",
+    "className": "ProductComboProductTemplateRel",
+    "filePath": "product\\product.comboproducttemplaterel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "product",
+    "tableName": "product_document",
+    "className": "ProductDocument",
+    "filePath": "product\\product.document.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "product",
+    "tableName": "product_document_sale_pdf_form_field_rel",
+    "className": "ProductDocumentSalePdfFormFieldRel",
+    "filePath": "product\\product.documentsalepdfformfieldrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "product",
+    "tableName": "product_label_layout",
+    "className": "ProductLabelLayout",
+    "filePath": "product\\product.labellayout.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "product",
+    "tableName": "product_label_layout_product_product_rel",
+    "className": "ProductLabelLayoutProductProductRel",
+    "filePath": "product\\product.labellayoutproductproductrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "product",
+    "tableName": "product_label_layout_product_template_rel",
+    "className": "ProductLabelLayoutProductTemplateRel",
+    "filePath": "product\\product.labellayoutproducttemplaterel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "product",
+    "tableName": "product_label_layout_stock_move_rel",
+    "className": "ProductLabelLayoutStockMoveRel",
+    "filePath": "product\\product.labellayoutstockmoverel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "product",
+    "tableName": "product_optional_rel",
+    "className": "ProductOptionalRel",
+    "filePath": "product\\product.optionalrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "product",
+    "tableName": "product_pricelist",
+    "className": "ProductPricelist",
+    "filePath": "product\\product.pricelist.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "product",
+    "tableName": "product_pricelist_item",
+    "className": "ProductPricelistItem",
+    "filePath": "product\\product.pricelistitem.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "product",
+    "tableName": "product_product",
+    "className": "ProductProduct",
+    "filePath": "product\\product.product.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "product",
+    "tableName": "product_removal",
+    "className": "ProductRemoval",
+    "filePath": "product\\product.removal.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "product",
+    "tableName": "product_replenish",
+    "className": "ProductReplenish",
+    "filePath": "product\\product.replenish.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "product",
+    "tableName": "product_supplierinfo",
+    "className": "ProductSupplierinfo",
+    "filePath": "product\\product.supplierinfo.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "product",
+    "tableName": "product_supplierinfo_stock_replenishment_info_rel",
+    "className": "ProductSupplierinfoStockReplenishmentInfoRel",
+    "filePath": "product\\product.supplierinfostockreplenishmentinforel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "product",
+    "tableName": "product_supplier_taxes_rel",
+    "className": "ProductSupplierTaxesRel",
+    "filePath": "product\\product.suppliertaxesrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "product",
+    "tableName": "product_tag",
+    "className": "ProductTag",
+    "filePath": "product\\product.tag.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "product",
+    "tableName": "product_tag_product_product_rel",
+    "className": "ProductTagProductProductRel",
+    "filePath": "product\\product.tagproductproductrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "product",
+    "tableName": "product_tag_product_template_rel",
+    "className": "ProductTagProductTemplateRel",
+    "filePath": "product\\product.tagproducttemplaterel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "product",
+    "tableName": "product_taxes_rel",
+    "className": "ProductTaxesRel",
+    "filePath": "product\\product.taxesrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "product",
+    "tableName": "product_template",
+    "className": "ProductTemplate",
+    "filePath": "product\\product.template.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "product",
+    "tableName": "product_template_attribute_exclusion",
+    "className": "ProductTemplateAttributeExclusion",
+    "filePath": "product\\product.templateattributeexclusion.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "product",
+    "tableName": "product_template_attribute_line",
+    "className": "ProductTemplateAttributeLine",
+    "filePath": "product\\product.templateattributeline.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "product",
+    "tableName": "product_template_attribute_value",
+    "className": "ProductTemplateAttributeValue",
+    "filePath": "product\\product.templateattributevalue.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "product",
+    "tableName": "product_template_attribute_value_purchase_order_line_rel",
+    "className": "ProductTemplateAttributeValuePurchaseOrderLineRel",
+    "filePath": "product\\product.templateattributevaluepurchaseorderlinerel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "product",
+    "tableName": "product_template_attribute_value_sale_order_line_rel",
+    "className": "ProductTemplateAttributeValueSaleOrderLineRel",
+    "filePath": "product\\product.templateattributevaluesaleorderlinerel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "product",
+    "tableName": "product_template_uom_uom_rel",
+    "className": "ProductTemplateUomUomRel",
+    "filePath": "product\\product.templateuomuomrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "product",
+    "tableName": "product_uom",
+    "className": "ProductUom",
+    "filePath": "product\\product.uom.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "product",
+    "tableName": "product_value",
+    "className": "ProductValue",
+    "filePath": "product\\product.value.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "product",
+    "tableName": "product_variant_combination",
+    "className": "ProductVariantCombination",
+    "filePath": "product\\product.variantcombination.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "products",
+    "tableName": "Products",
+    "className": "Products",
+    "filePath": "products\\products.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "project",
+    "tableName": "project_collaborator",
+    "className": "ProjectCollaborator",
+    "filePath": "project\\project.collaborator.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "project",
+    "tableName": "project_favorite_user_rel",
+    "className": "ProjectFavoriteUserRel",
+    "filePath": "project\\project.favoriteuserrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "project",
+    "tableName": "project_milestone",
+    "className": "ProjectMilestone",
+    "filePath": "project\\project.milestone.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "project",
+    "tableName": "project_project",
+    "className": "ProjectProject",
+    "filePath": "project\\project.project.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "project",
+    "tableName": "project_project_project_tags_rel",
+    "className": "ProjectProjectProjectTagsRel",
+    "filePath": "project\\project.projectprojecttagsrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "project",
+    "tableName": "project_project_project_task_type_delete_wizard_rel",
+    "className": "ProjectProjectProjectTaskTypeDeleteWizardRel",
+    "filePath": "project\\project.projectprojecttasktypedeletewizardrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "project",
+    "tableName": "project_project_stage",
+    "className": "ProjectProjectStage",
+    "filePath": "project\\project.projectstage.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "project",
+    "tableName": "project_project_stage_delete_wizard",
+    "className": "ProjectProjectStageDeleteWizard",
+    "filePath": "project\\project.projectstagedeletewizard.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "project",
+    "tableName": "project_project_stage_project_project_stage_delete_wizard_rel",
+    "className": "ProjectProjectStageProjectProjectStageDeleteWizardRel",
+    "filePath": "project\\project.projectstageprojectprojectstagedeletewizardrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "project",
+    "tableName": "project_role",
+    "className": "ProjectRole",
+    "filePath": "project\\project.role.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "project",
+    "tableName": "project_role_project_task_rel",
+    "className": "ProjectRoleProjectTaskRel",
+    "filePath": "project\\project.roleprojecttaskrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "project",
+    "tableName": "project_share_collaborator_wizard",
+    "className": "ProjectShareCollaboratorWizard",
+    "filePath": "project\\project.sharecollaboratorwizard.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "project",
+    "tableName": "project_share_wizard",
+    "className": "ProjectShareWizard",
+    "filePath": "project\\project.sharewizard.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "project",
+    "tableName": "project_share_wizard_res_partner_rel",
+    "className": "ProjectShareWizardResPartnerRel",
+    "filePath": "project\\project.sharewizardrespartnerrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "project",
+    "tableName": "project_tags",
+    "className": "ProjectTags",
+    "filePath": "project\\project.tags.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "project",
+    "tableName": "project_tags_project_task_rel",
+    "className": "ProjectTagsProjectTaskRel",
+    "filePath": "project\\project.tagsprojecttaskrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "project",
+    "tableName": "project_task",
+    "className": "ProjectTask",
+    "filePath": "project\\project.task.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "project",
+    "tableName": "project_task_recurrence",
+    "className": "ProjectTaskRecurrence",
+    "filePath": "project\\project.taskrecurrence.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "project",
+    "tableName": "project_task_type",
+    "className": "ProjectTaskType",
+    "filePath": "project\\project.tasktype.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "project",
+    "tableName": "project_task_type_delete_wizard",
+    "className": "ProjectTaskTypeDeleteWizard",
+    "filePath": "project\\project.tasktypedeletewizard.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "project",
+    "tableName": "project_task_type_project_task_type_delete_wizard_rel",
+    "className": "ProjectTaskTypeProjectTaskTypeDeleteWizardRel",
+    "filePath": "project\\project.tasktypeprojecttasktypedeletewizardrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "project",
+    "tableName": "project_task_type_rel",
+    "className": "ProjectTaskTypeRel",
+    "filePath": "project\\project.tasktyperel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "project",
+    "tableName": "project_task_user_rel",
+    "className": "ProjectTaskUserRel",
+    "filePath": "project\\project.taskuserrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "project",
+    "tableName": "project_template_create_wizard",
+    "className": "ProjectTemplateCreateWizard",
+    "filePath": "project\\project.templatecreatewizard.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "project",
+    "tableName": "project_template_role_to_users_map",
+    "className": "ProjectTemplateRoleToUsersMap",
+    "filePath": "project\\project.templateroletousersmap.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "project",
+    "tableName": "project_template_role_to_users_map_res_users_rel",
+    "className": "ProjectTemplateRoleToUsersMapResUsersRel",
+    "filePath": "project\\project.templateroletousersmapresusersrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "project",
+    "tableName": "project_update",
+    "className": "ProjectUpdate",
+    "filePath": "project\\project.update.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "properties",
+    "tableName": "properties_base_definition",
+    "className": "PropertiesBaseDefinition",
+    "filePath": "properties\\properties.basedefinition.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "purchase",
+    "tableName": "purchase_order",
+    "className": "PurchaseOrder",
+    "filePath": "purchase\\purchase.order.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "purchase",
+    "tableName": "purchase_order_line",
+    "className": "PurchaseOrderLine",
+    "filePath": "purchase\\purchase.orderline.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "purchase",
+    "tableName": "purchase_order_stock_picking_rel",
+    "className": "PurchaseOrderStockPickingRel",
+    "filePath": "purchase\\purchase.orderstockpickingrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "quotation",
+    "tableName": "quotation_document",
+    "className": "QuotationDocument",
+    "filePath": "quotation\\quotation.document.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "quotation",
+    "tableName": "quotation_document_sale_order_rel",
+    "className": "QuotationDocumentSaleOrderRel",
+    "filePath": "quotation\\quotation.documentsaleorderrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "quotation",
+    "tableName": "quotation_document_sale_pdf_form_field_rel",
+    "className": "QuotationDocumentSalePdfFormFieldRel",
+    "filePath": "quotation\\quotation.documentsalepdfformfieldrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "rating",
+    "tableName": "rating_rating",
+    "className": "RatingRating",
+    "filePath": "rating\\rating.rating.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "rel",
+    "tableName": "rel_badge_auth_users",
+    "className": "RelBadgeAuthUsers",
+    "filePath": "rel\\rel.badgeauthusers.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "rel",
+    "tableName": "rel_modules_langexport",
+    "className": "RelModulesLangexport",
+    "filePath": "rel\\rel.moduleslangexport.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "rel",
+    "tableName": "rel_slide_tag",
+    "className": "RelSlideTag",
+    "filePath": "rel\\rel.slidetag.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "rel",
+    "tableName": "rel_upload_groups",
+    "className": "RelUploadGroups",
+    "filePath": "rel\\rel.uploadgroups.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "report",
+    "tableName": "report_layout",
+    "className": "ReportLayout",
+    "filePath": "report\\report.layout.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "report",
+    "tableName": "report_paperformat",
+    "className": "ReportPaperformat",
+    "filePath": "report\\report.paperformat.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "res",
+    "tableName": "res_bank",
+    "className": "ResBank",
+    "filePath": "res\\res.bank.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "res",
+    "tableName": "res_company",
+    "className": "ResCompany",
+    "filePath": "res\\res.company.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "res",
+    "tableName": "res_company_spreadsheet_dashboard_rel",
+    "className": "ResCompanySpreadsheetDashboardRel",
+    "filePath": "res\\res.companyspreadsheetdashboardrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "res",
+    "tableName": "res_company_users_rel",
+    "className": "ResCompanyUsersRel",
+    "filePath": "res\\res.companyusersrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "res",
+    "tableName": "res_config",
+    "className": "ResConfig",
+    "filePath": "res\\res.config.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "res",
+    "tableName": "res_config_settings",
+    "className": "ResConfigSettings",
+    "filePath": "res\\res.configsettings.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "res",
+    "tableName": "res_country",
+    "className": "ResCountry",
+    "filePath": "res\\res.country.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "res",
+    "tableName": "res_country_group",
+    "className": "ResCountryGroup",
+    "filePath": "res\\res.countrygroup.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "res",
+    "tableName": "res_country_group_pricelist_rel",
+    "className": "ResCountryGroupPricelistRel",
+    "filePath": "res\\res.countrygrouppricelistrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "res",
+    "tableName": "res_country_group_res_country_state_rel",
+    "className": "ResCountryGroupResCountryStateRel",
+    "filePath": "res\\res.countrygrouprescountrystaterel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "res",
+    "tableName": "res_country_res_country_group_rel",
+    "className": "ResCountryResCountryGroupRel",
+    "filePath": "res\\res.countryrescountrygrouprel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "res",
+    "tableName": "res_country_state",
+    "className": "ResCountryState",
+    "filePath": "res\\res.countrystate.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "res",
+    "tableName": "res_currency",
+    "className": "ResCurrency",
+    "filePath": "res\\res.currency.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "res",
+    "tableName": "res_currency_rate",
+    "className": "ResCurrencyRate",
+    "filePath": "res\\res.currencyrate.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "res",
+    "tableName": "res_device_log",
+    "className": "ResDeviceLog",
+    "filePath": "res\\res.devicelog.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "res",
+    "tableName": "res_groups",
+    "className": "ResGroups",
+    "filePath": "res\\res.groups.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "res",
+    "tableName": "res_groups_implied_rel",
+    "className": "ResGroupsImpliedRel",
+    "filePath": "res\\res.groupsimpliedrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "res",
+    "tableName": "res_groups_privilege",
+    "className": "ResGroupsPrivilege",
+    "filePath": "res\\res.groupsprivilege.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "res",
+    "tableName": "res_groups_report_rel",
+    "className": "ResGroupsReportRel",
+    "filePath": "res\\res.groupsreportrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "res",
+    "tableName": "res_groups_slide_channel_rel",
+    "className": "ResGroupsSlideChannelRel",
+    "filePath": "res\\res.groupsslidechannelrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "res",
+    "tableName": "res_groups_spreadsheet_dashboard_rel",
+    "className": "ResGroupsSpreadsheetDashboardRel",
+    "filePath": "res\\res.groupsspreadsheetdashboardrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "res",
+    "tableName": "res_groups_users_rel",
+    "className": "ResGroupsUsersRel",
+    "filePath": "res\\res.groupsusersrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "res",
+    "tableName": "res_groups_website_menu_rel",
+    "className": "ResGroupsWebsiteMenuRel",
+    "filePath": "res\\res.groupswebsitemenurel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "res",
+    "tableName": "res_lang",
+    "className": "ResLang",
+    "filePath": "res\\res.lang.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "res",
+    "tableName": "res_lang_install_rel",
+    "className": "ResLangInstallRel",
+    "filePath": "res\\res.langinstallrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "res",
+    "tableName": "res_partner",
+    "className": "ResPartner",
+    "filePath": "res\\res.partner.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "res",
+    "tableName": "res_partner_bank",
+    "className": "ResPartnerBank",
+    "filePath": "res\\res.partnerbank.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "res",
+    "tableName": "res_partner_category",
+    "className": "ResPartnerCategory",
+    "filePath": "res\\res.partnercategory.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "res",
+    "tableName": "res_partner_industry",
+    "className": "ResPartnerIndustry",
+    "filePath": "res\\res.partnerindustry.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "res",
+    "tableName": "res_partner_res_partner_category_rel",
+    "className": "ResPartnerResPartnerCategoryRel",
+    "filePath": "res\\res.partnerrespartnercategoryrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "res",
+    "tableName": "res_partner_slide_channel_invite_rel",
+    "className": "ResPartnerSlideChannelInviteRel",
+    "filePath": "res\\res.partnerslidechannelinviterel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "res",
+    "tableName": "res_partner_task_share_wizard_rel",
+    "className": "ResPartnerTaskShareWizardRel",
+    "filePath": "res\\res.partnertasksharewizardrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "res",
+    "tableName": "res_role",
+    "className": "ResRole",
+    "filePath": "res\\res.role.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "res",
+    "tableName": "res_role_res_users_rel",
+    "className": "ResRoleResUsersRel",
+    "filePath": "res\\res.roleresusersrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "res",
+    "tableName": "res_users",
+    "className": "ResUsers",
+    "filePath": "res\\res.users.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "res",
+    "tableName": "res_users_apikeys",
+    "className": "ResUsersApikeys",
+    "filePath": "res\\res.usersapikeys.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "res",
+    "tableName": "res_users_apikeys_description",
+    "className": "ResUsersApikeysDescription",
+    "filePath": "res\\res.usersapikeysdescription.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "res",
+    "tableName": "res_users_deletion",
+    "className": "ResUsersDeletion",
+    "filePath": "res\\res.usersdeletion.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "res",
+    "tableName": "res_users_identitycheck",
+    "className": "ResUsersIdentitycheck",
+    "filePath": "res\\res.usersidentitycheck.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "res",
+    "tableName": "res_users_log",
+    "className": "ResUsersLog",
+    "filePath": "res\\res.userslog.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "res",
+    "tableName": "res_users_settings",
+    "className": "ResUsersSettings",
+    "filePath": "res\\res.userssettings.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "res",
+    "tableName": "res_users_settings_embedded_action",
+    "className": "ResUsersSettingsEmbeddedAction",
+    "filePath": "res\\res.userssettingsembeddedaction.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "res",
+    "tableName": "res_users_settings_volumes",
+    "className": "ResUsersSettingsVolumes",
+    "filePath": "res\\res.userssettingsvolumes.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "res",
+    "tableName": "res_users_spreadsheet_dashboard_rel",
+    "className": "ResUsersSpreadsheetDashboardRel",
+    "filePath": "res\\res.usersspreadsheetdashboardrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "res",
+    "tableName": "res_users_web_tour_tour_rel",
+    "className": "ResUsersWebTourTourRel",
+    "filePath": "res\\res.userswebtourtourrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "reset",
+    "tableName": "reset_view_arch_wizard",
+    "className": "ResetViewArchWizard",
+    "filePath": "reset\\reset.viewarchwizard.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "resource",
+    "tableName": "resource_calendar",
+    "className": "ResourceCalendar",
+    "filePath": "resource\\resource.calendar.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "resource",
+    "tableName": "resource_calendar_attendance",
+    "className": "ResourceCalendarAttendance",
+    "filePath": "resource\\resource.calendarattendance.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "resource",
+    "tableName": "resource_calendar_leaves",
+    "className": "ResourceCalendarLeaves",
+    "filePath": "resource\\resource.calendarleaves.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "resource",
+    "tableName": "resource_resource",
+    "className": "ResourceResource",
+    "filePath": "resource\\resource.resource.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "rule",
+    "tableName": "rule_group_rel",
+    "className": "RuleGroupRel",
+    "filePath": "rule\\rule.grouprel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "sale",
+    "tableName": "sale_advance_payment_inv",
+    "className": "SaleAdvancePaymentInv",
+    "filePath": "sale\\sale.advancepaymentinv.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "sale",
+    "tableName": "sale_advance_payment_inv_sale_order_rel",
+    "className": "SaleAdvancePaymentInvSaleOrderRel",
+    "filePath": "sale\\sale.advancepaymentinvsaleorderrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "sale",
+    "tableName": "sale_mass_cancel_orders",
+    "className": "SaleMassCancelOrders",
+    "filePath": "sale\\sale.masscancelorders.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "sale",
+    "tableName": "sale_order",
+    "className": "SaleOrder",
+    "filePath": "sale\\sale.order.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "sale",
+    "tableName": "sale_order_discount",
+    "className": "SaleOrderDiscount",
+    "filePath": "sale\\sale.orderdiscount.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "sale",
+    "tableName": "sale_order_line",
+    "className": "SaleOrderLine",
+    "filePath": "sale\\sale.orderline.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "sale",
+    "tableName": "sale_order_line_invoice_rel",
+    "className": "SaleOrderLineInvoiceRel",
+    "filePath": "sale\\sale.orderlineinvoicerel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "sale",
+    "tableName": "sale_order_line_product_document_rel",
+    "className": "SaleOrderLineProductDocumentRel",
+    "filePath": "sale\\sale.orderlineproductdocumentrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "sale",
+    "tableName": "sale_order_line_stock_route_rel",
+    "className": "SaleOrderLineStockRouteRel",
+    "filePath": "sale\\sale.orderlinestockrouterel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "sale",
+    "tableName": "sale_order_mass_cancel_wizard_rel",
+    "className": "SaleOrderMassCancelWizardRel",
+    "filePath": "sale\\sale.ordermasscancelwizardrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "sale",
+    "tableName": "sale_order_tag_rel",
+    "className": "SaleOrderTagRel",
+    "filePath": "sale\\sale.ordertagrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "sale",
+    "tableName": "sale_order_template",
+    "className": "SaleOrderTemplate",
+    "filePath": "sale\\sale.ordertemplate.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "sale",
+    "tableName": "sale_order_template_line",
+    "className": "SaleOrderTemplateLine",
+    "filePath": "sale\\sale.ordertemplateline.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "sale",
+    "tableName": "sale_order_transaction_rel",
+    "className": "SaleOrderTransactionRel",
+    "filePath": "sale\\sale.ordertransactionrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "sale",
+    "tableName": "sale_pdf_form_field",
+    "className": "SalePdfFormField",
+    "filePath": "sale\\sale.pdfformfield.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "scheduled",
+    "tableName": "scheduled_message_attachment_rel",
+    "className": "ScheduledMessageAttachmentRel",
+    "filePath": "scheduled\\scheduled.messageattachmentrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "server",
+    "tableName": "server_action_history_wizard",
+    "className": "ServerActionHistoryWizard",
+    "filePath": "server\\server.actionhistorywizard.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "slide",
+    "tableName": "slide_answer",
+    "className": "SlideAnswer",
+    "filePath": "slide\\slide.answer.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "slide",
+    "tableName": "slide_channel",
+    "className": "SlideChannel",
+    "filePath": "slide\\slide.channel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "slide",
+    "tableName": "slide_channel_invite",
+    "className": "SlideChannelInvite",
+    "filePath": "slide\\slide.channelinvite.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "slide",
+    "tableName": "slide_channel_partner",
+    "className": "SlideChannelPartner",
+    "filePath": "slide\\slide.channelpartner.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "slide",
+    "tableName": "slide_channel_prerequisite_slide_channel_rel",
+    "className": "SlideChannelPrerequisiteSlideChannelRel",
+    "filePath": "slide\\slide.channelprerequisiteslidechannelrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "slide",
+    "tableName": "slide_channel_tag",
+    "className": "SlideChannelTag",
+    "filePath": "slide\\slide.channeltag.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "slide",
+    "tableName": "slide_channel_tag_group",
+    "className": "SlideChannelTagGroup",
+    "filePath": "slide\\slide.channeltaggroup.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "slide",
+    "tableName": "slide_channel_tag_rel",
+    "className": "SlideChannelTagRel",
+    "filePath": "slide\\slide.channeltagrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "slide",
+    "tableName": "slide_embed",
+    "className": "SlideEmbed",
+    "filePath": "slide\\slide.embed.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "slide",
+    "tableName": "slide_question",
+    "className": "SlideQuestion",
+    "filePath": "slide\\slide.question.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "slide",
+    "tableName": "slide_slide",
+    "className": "SlideSlide",
+    "filePath": "slide\\slide.slide.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "slide",
+    "tableName": "slide_slide_partner",
+    "className": "SlideSlidePartner",
+    "filePath": "slide\\slide.slidepartner.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "slide",
+    "tableName": "slide_slide_resource",
+    "className": "SlideSlideResource",
+    "filePath": "slide\\slide.slideresource.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "slide",
+    "tableName": "slide_tag",
+    "className": "SlideTag",
+    "filePath": "slide\\slide.tag.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "sms",
+    "tableName": "sms_account_code",
+    "className": "SmsAccountCode",
+    "filePath": "sms\\sms.accountcode.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "sms",
+    "tableName": "sms_account_phone",
+    "className": "SmsAccountPhone",
+    "filePath": "sms\\sms.accountphone.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "sms",
+    "tableName": "sms_account_sender",
+    "className": "SmsAccountSender",
+    "filePath": "sms\\sms.accountsender.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "sms",
+    "tableName": "sms_composer",
+    "className": "SmsComposer",
+    "filePath": "sms\\sms.composer.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "sms",
+    "tableName": "sms_sms",
+    "className": "SmsSms",
+    "filePath": "sms\\sms.sms.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "sms",
+    "tableName": "sms_template",
+    "className": "SmsTemplate",
+    "filePath": "sms\\sms.template.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "sms",
+    "tableName": "sms_template_preview",
+    "className": "SmsTemplatePreview",
+    "filePath": "sms\\sms.templatepreview.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "sms",
+    "tableName": "sms_template_reset",
+    "className": "SmsTemplateReset",
+    "filePath": "sms\\sms.templatereset.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "sms",
+    "tableName": "sms_template_sms_template_reset_rel",
+    "className": "SmsTemplateSmsTemplateResetRel",
+    "filePath": "sms\\sms.templatesmstemplateresetrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "sms",
+    "tableName": "sms_tracker",
+    "className": "SmsTracker",
+    "filePath": "sms\\sms.tracker.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "snailmail",
+    "tableName": "snailmail_letter",
+    "className": "SnailmailLetter",
+    "filePath": "snailmail\\snailmail.letter.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "spreadsheet",
+    "tableName": "spreadsheet_dashboard",
+    "className": "SpreadsheetDashboard",
+    "filePath": "spreadsheet\\spreadsheet.dashboard.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "spreadsheet",
+    "tableName": "spreadsheet_dashboard_group",
+    "className": "SpreadsheetDashboardGroup",
+    "filePath": "spreadsheet\\spreadsheet.dashboardgroup.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "spreadsheet",
+    "tableName": "spreadsheet_dashboard_share",
+    "className": "SpreadsheetDashboardShare",
+    "filePath": "spreadsheet\\spreadsheet.dashboardshare.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_backorder_confirmation",
+    "className": "StockBackorderConfirmation",
+    "filePath": "stock\\stock.backorderconfirmation.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_backorder_confirmation_line",
+    "className": "StockBackorderConfirmationLine",
+    "filePath": "stock\\stock.backorderconfirmationline.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_conflict_quant_rel",
+    "className": "StockConflictQuantRel",
+    "filePath": "stock\\stock.conflictquantrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_inventory_adjustment_name",
+    "className": "StockInventoryAdjustmentName",
+    "filePath": "stock\\stock.inventoryadjustmentname.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_inventory_adjustment_name_stock_quant_rel",
+    "className": "StockInventoryAdjustmentNameStockQuantRel",
+    "filePath": "stock\\stock.inventoryadjustmentnamestockquantrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_inventory_conflict",
+    "className": "StockInventoryConflict",
+    "filePath": "stock\\stock.inventoryconflict.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_inventory_conflict_stock_quant_rel",
+    "className": "StockInventoryConflictStockQuantRel",
+    "filePath": "stock\\stock.inventoryconflictstockquantrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_inventory_warning",
+    "className": "StockInventoryWarning",
+    "filePath": "stock\\stock.inventorywarning.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_inventory_warning_stock_quant_rel",
+    "className": "StockInventoryWarningStockQuantRel",
+    "filePath": "stock\\stock.inventorywarningstockquantrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_location",
+    "className": "StockLocation",
+    "filePath": "stock\\stock.location.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_lot",
+    "className": "StockLot",
+    "filePath": "stock\\stock.lot.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_move",
+    "className": "StockMove",
+    "filePath": "stock\\stock.move.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_move_created_purchase_line_rel",
+    "className": "StockMoveCreatedPurchaseLineRel",
+    "filePath": "stock\\stock.movecreatedpurchaselinerel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_move_line",
+    "className": "StockMoveLine",
+    "filePath": "stock\\stock.moveline.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_move_line_consume_rel",
+    "className": "StockMoveLineConsumeRel",
+    "filePath": "stock\\stock.movelineconsumerel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_move_line_stock_put_in_pack_rel",
+    "className": "StockMoveLineStockPutInPackRel",
+    "filePath": "stock\\stock.movelinestockputinpackrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_move_move_rel",
+    "className": "StockMoveMoveRel",
+    "filePath": "stock\\stock.movemoverel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_orderpoint_snooze",
+    "className": "StockOrderpointSnooze",
+    "filePath": "stock\\stock.orderpointsnooze.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_orderpoint_snooze_stock_warehouse_orderpoint_rel",
+    "className": "StockOrderpointSnoozeStockWarehouseOrderpointRel",
+    "filePath": "stock\\stock.orderpointsnoozestockwarehouseorderpointrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_package",
+    "className": "StockPackage",
+    "filePath": "stock\\stock.package.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_package_destination",
+    "className": "StockPackageDestination",
+    "filePath": "stock\\stock.packagedestination.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_package_history",
+    "className": "StockPackageHistory",
+    "filePath": "stock\\stock.packagehistory.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_package_history_stock_picking_rel",
+    "className": "StockPackageHistoryStockPickingRel",
+    "filePath": "stock\\stock.packagehistorystockpickingrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_package_stock_put_in_pack_rel",
+    "className": "StockPackageStockPutInPackRel",
+    "filePath": "stock\\stock.packagestockputinpackrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_package_type",
+    "className": "StockPackageType",
+    "filePath": "stock\\stock.packagetype.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_package_type_stock_putaway_rule_rel",
+    "className": "StockPackageTypeStockPutawayRuleRel",
+    "filePath": "stock\\stock.packagetypestockputawayrulerel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_package_type_stock_route_rel",
+    "className": "StockPackageTypeStockRouteRel",
+    "filePath": "stock\\stock.packagetypestockrouterel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_picking",
+    "className": "StockPicking",
+    "filePath": "stock\\stock.picking.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_picking_backorder_rel",
+    "className": "StockPickingBackorderRel",
+    "filePath": "stock\\stock.pickingbackorderrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_picking_sms_rel",
+    "className": "StockPickingSmsRel",
+    "filePath": "stock\\stock.pickingsmsrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_picking_type",
+    "className": "StockPickingType",
+    "filePath": "stock\\stock.pickingtype.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_putaway_rule",
+    "className": "StockPutawayRule",
+    "filePath": "stock\\stock.putawayrule.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_put_in_pack",
+    "className": "StockPutInPack",
+    "filePath": "stock\\stock.putinpack.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_quant",
+    "className": "StockQuant",
+    "filePath": "stock\\stock.quant.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_quantity_history",
+    "className": "StockQuantityHistory",
+    "filePath": "stock\\stock.quantityhistory.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_quant_relocate",
+    "className": "StockQuantRelocate",
+    "filePath": "stock\\stock.quantrelocate.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_quant_stock_quant_relocate_rel",
+    "className": "StockQuantStockQuantRelocateRel",
+    "filePath": "stock\\stock.quantstockquantrelocaterel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_quant_stock_request_count_rel",
+    "className": "StockQuantStockRequestCountRel",
+    "filePath": "stock\\stock.quantstockrequestcountrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_reference",
+    "className": "StockReference",
+    "filePath": "stock\\stock.reference.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_reference_move_rel",
+    "className": "StockReferenceMoveRel",
+    "filePath": "stock\\stock.referencemoverel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_reference_production_rel",
+    "className": "StockReferenceProductionRel",
+    "filePath": "stock\\stock.referenceproductionrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_reference_purchase_rel",
+    "className": "StockReferencePurchaseRel",
+    "filePath": "stock\\stock.referencepurchaserel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_reference_sale_rel",
+    "className": "StockReferenceSaleRel",
+    "filePath": "stock\\stock.referencesalerel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_replenishment_info",
+    "className": "StockReplenishmentInfo",
+    "filePath": "stock\\stock.replenishmentinfo.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_replenishment_option",
+    "className": "StockReplenishmentOption",
+    "filePath": "stock\\stock.replenishmentoption.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_request_count",
+    "className": "StockRequestCount",
+    "filePath": "stock\\stock.requestcount.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_return_picking",
+    "className": "StockReturnPicking",
+    "filePath": "stock\\stock.returnpicking.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_return_picking_line",
+    "className": "StockReturnPickingLine",
+    "filePath": "stock\\stock.returnpickingline.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_route",
+    "className": "StockRoute",
+    "filePath": "stock\\stock.route.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_route_categ",
+    "className": "StockRouteCateg",
+    "filePath": "stock\\stock.routecateg.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_route_move",
+    "className": "StockRouteMove",
+    "filePath": "stock\\stock.routemove.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_route_product",
+    "className": "StockRouteProduct",
+    "filePath": "stock\\stock.routeproduct.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_route_stock_rules_report_rel",
+    "className": "StockRouteStockRulesReportRel",
+    "filePath": "stock\\stock.routestockrulesreportrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_route_warehouse",
+    "className": "StockRouteWarehouse",
+    "filePath": "stock\\stock.routewarehouse.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_rule",
+    "className": "StockRule",
+    "filePath": "stock\\stock.rule.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_rules_report",
+    "className": "StockRulesReport",
+    "filePath": "stock\\stock.rulesreport.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_rules_report_stock_warehouse_rel",
+    "className": "StockRulesReportStockWarehouseRel",
+    "filePath": "stock\\stock.rulesreportstockwarehouserel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_scrap",
+    "className": "StockScrap",
+    "filePath": "stock\\stock.scrap.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_scrap_reason_tag",
+    "className": "StockScrapReasonTag",
+    "filePath": "stock\\stock.scrapreasontag.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_scrap_stock_scrap_reason_tag_rel",
+    "className": "StockScrapStockScrapReasonTagRel",
+    "filePath": "stock\\stock.scrapstockscrapreasontagrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_storage_category",
+    "className": "StockStorageCategory",
+    "filePath": "stock\\stock.storagecategory.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_storage_category_capacity",
+    "className": "StockStorageCategoryCapacity",
+    "filePath": "stock\\stock.storagecategorycapacity.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_traceability_report",
+    "className": "StockTraceabilityReport",
+    "filePath": "stock\\stock.traceabilityreport.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_warehouse",
+    "className": "StockWarehouse",
+    "filePath": "stock\\stock.warehouse.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_warehouse_orderpoint",
+    "className": "StockWarehouseOrderpoint",
+    "filePath": "stock\\stock.warehouseorderpoint.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_warn_insufficient_qty_scrap",
+    "className": "StockWarnInsufficientQtyScrap",
+    "filePath": "stock\\stock.warninsufficientqtyscrap.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_warn_insufficient_qty_unbuild",
+    "className": "StockWarnInsufficientQtyUnbuild",
+    "filePath": "stock\\stock.warninsufficientqtyunbuild.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "stock",
+    "tableName": "stock_wh_resupply_table",
+    "className": "StockWhResupplyTable",
+    "filePath": "stock\\stock.whresupplytable.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "task",
+    "tableName": "task_dependencies_rel",
+    "className": "TaskDependenciesRel",
+    "filePath": "task\\task.dependenciesrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "task",
+    "tableName": "task_share_wizard",
+    "className": "TaskShareWizard",
+    "filePath": "task\\task.sharewizard.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "team",
+    "tableName": "team_favorite_user_rel",
+    "className": "TeamFavoriteUserRel",
+    "filePath": "team\\team.favoriteuserrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "template",
+    "tableName": "template_attribute_value_mrp_production_rel",
+    "className": "TemplateAttributeValueMrpProductionRel",
+    "filePath": "template\\template.attributevaluemrpproductionrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "template",
+    "tableName": "template_attribute_value_stock_move_rel",
+    "className": "TemplateAttributeValueStockMoveRel",
+    "filePath": "template\\template.attributevaluestockmoverel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "theme",
+    "tableName": "theme_ir_asset",
+    "className": "ThemeIrAsset",
+    "filePath": "theme\\theme.irasset.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "theme",
+    "tableName": "theme_ir_attachment",
+    "className": "ThemeIrAttachment",
+    "filePath": "theme\\theme.irattachment.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "theme",
+    "tableName": "theme_ir_ui_view",
+    "className": "ThemeIrUiView",
+    "filePath": "theme\\theme.iruiview.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "theme",
+    "tableName": "theme_website_menu",
+    "className": "ThemeWebsiteMenu",
+    "filePath": "theme\\theme.websitemenu.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "theme",
+    "tableName": "theme_website_page",
+    "className": "ThemeWebsitePage",
+    "filePath": "theme\\theme.websitepage.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "uom",
+    "tableName": "uom_uom",
+    "className": "UomUom",
+    "filePath": "uom\\uom.uom.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "update",
+    "tableName": "update_product_attribute_value",
+    "className": "UpdateProductAttributeValue",
+    "filePath": "update\\update.productattributevalue.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "utm",
+    "tableName": "utm_campaign",
+    "className": "UtmCampaign",
+    "filePath": "utm\\utm.campaign.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "utm",
+    "tableName": "utm_medium",
+    "className": "UtmMedium",
+    "filePath": "utm\\utm.medium.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "utm",
+    "tableName": "utm_source",
+    "className": "UtmSource",
+    "filePath": "utm\\utm.source.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "utm",
+    "tableName": "utm_stage",
+    "className": "UtmStage",
+    "filePath": "utm\\utm.stage.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "utm",
+    "tableName": "utm_tag",
+    "className": "UtmTag",
+    "filePath": "utm\\utm.tag.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "utm",
+    "tableName": "utm_tag_rel",
+    "className": "UtmTagRel",
+    "filePath": "utm\\utm.tagrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "validate",
+    "tableName": "validate_account_move",
+    "className": "ValidateAccountMove",
+    "filePath": "validate\\validate.accountmove.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "web",
+    "tableName": "web_tour_tour",
+    "className": "WebTourTour",
+    "filePath": "web\\web.tourtour.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "web",
+    "tableName": "web_tour_tour_step",
+    "className": "WebTourTourStep",
+    "filePath": "web\\web.tourtourstep.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "website",
+    "tableName": "website_configurator_feature",
+    "className": "WebsiteConfiguratorFeature",
+    "filePath": "website\\website.configuratorfeature.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "website",
+    "tableName": "website_controller_page",
+    "className": "WebsiteControllerPage",
+    "filePath": "website\\website.controllerpage.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "website",
+    "tableName": "website_custom_blocked_third_party_domains",
+    "className": "WebsiteCustomBlockedThirdPartyDomains",
+    "filePath": "website\\website.customblockedthirdpartydomains.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "website",
+    "tableName": "website",
+    "className": "Website",
+    "filePath": "website\\website.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "website",
+    "tableName": "website_lang_rel",
+    "className": "WebsiteLangRel",
+    "filePath": "website\\website.langrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "website",
+    "tableName": "website_menu",
+    "className": "WebsiteMenu",
+    "filePath": "website\\website.menu.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "website",
+    "tableName": "website_page",
+    "className": "WebsitePage",
+    "filePath": "website\\website.page.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "website",
+    "tableName": "website_page_properties",
+    "className": "WebsitePageProperties",
+    "filePath": "website\\website.pageproperties.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "website",
+    "tableName": "website_page_properties_base",
+    "className": "WebsitePagePropertiesBase",
+    "filePath": "website\\website.pagepropertiesbase.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "website",
+    "tableName": "website_rewrite",
+    "className": "WebsiteRewrite",
+    "filePath": "website\\website.rewrite.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "website",
+    "tableName": "website_robots",
+    "className": "WebsiteRobots",
+    "filePath": "website\\website.robots.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "website",
+    "tableName": "website_route",
+    "className": "WebsiteRoute",
+    "filePath": "website\\website.route.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "website",
+    "tableName": "website_snippet_filter",
+    "className": "WebsiteSnippetFilter",
+    "filePath": "website\\website.snippetfilter.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "website",
+    "tableName": "website_track",
+    "className": "WebsiteTrack",
+    "filePath": "website\\website.track.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "website",
+    "tableName": "website_visitor",
+    "className": "WebsiteVisitor",
+    "filePath": "website\\website.visitor.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "wip",
+    "tableName": "wip_move_production_rel",
+    "className": "WipMoveProductionRel",
+    "filePath": "wip\\wip.moveproductionrel.entity.ts",
+    "fields": []
+  },
+  {
+    "moduleName": "wizard",
+    "tableName": "wizard_ir_model_menu_create",
+    "className": "WizardIrModelMenuCreate",
+    "filePath": "wizard\\wizard.irmodelmenucreate.entity.ts",
+    "fields": []
+  }
+]
