@@ -1,58 +1,69 @@
 import { Entity, Column, PrimaryGeneratedColumn, ManyToOne, JoinColumn } from 'typeorm';
 
 /**
- * CRM Tag
+ * CRM标签实体
+ * 作用：存储CRM系统中的标签信息，用于对线索、商机等CRM对象进行分类和标记，方便搜索和筛选
  */
 @Entity('crm_tag')
 export class CrmTag {
+  /**
+   * 主键ID
+   * 作用：唯一标识每一个标签
+   */
   @PrimaryGeneratedColumn()
   id: number;
 
   /**
-   * Color
+   * 颜色值
+   * 作用：定义标签在界面上显示的颜色代码
    */
   @Column({
-    type: 'int'
+    type: 'int',
   })
   color: number;
 
   /**
-   * Created by
+   * 创建人用户ID
+   * 作用：记录创建此标签的用户
    */
   @Column({
-    type: 'int'
+    type: 'int',
   })
   create_uid: number;
 
   /**
-   * Last Updated by
+   * 最后更新人用户ID
+   * 作用：记录最后修改此标签的用户
    */
   @Column({
-    type: 'int'
+    type: 'int',
   })
   write_uid: number;
 
   /**
-   * Tag Name
+   * 标签名称
+   * 作用：存储标签的多语言名称，使用JSON格式支持国际化
    */
   @Column({
-    type: 'jsonb'
+    type: 'jsonb',
   })
   name: object;
 
   /**
-   * Created on
+   * 创建时间
+   * 作用：记录此标签的创建时间
    */
   @Column({
-    type: 'datetime'
+    type: 'datetime',
   })
   create_date: Date;
 
   /**
-   * Last Updated on
+   * 最后更新时间
+   * 作用：记录此标签的最后修改时间
    */
   @Column({
-    type: 'datetime'
+    type: 'datetime',
   })
   write_date: Date;
 

@@ -1,106 +1,124 @@
 import { Entity, Column, PrimaryGeneratedColumn, ManyToOne, JoinColumn } from 'typeorm';
 
 /**
- * Sales Team Member
+ * CRM团队成员实体
+ * 作用：存储销售团队成员信息，管理团队成员的分配规则、容量限制和工作偏好设置
  */
 @Entity('crm_team_member')
 export class CrmTeamMember {
+  /**
+   * 主键ID
+   * 作用：唯一标识每一条团队成员记录
+   */
   @PrimaryGeneratedColumn()
   id: number;
 
   /**
-   * Sales Team
+   * CRM团队ID
+   * 作用：关联到成员所属的销售团队
    */
   @Column({
-    type: 'int'
+    type: 'int',
   })
   crm_team_id: number;
 
+  // 多对一关联到CrmTeam实体
   // @ManyToOne(() => CrmTeam)
   // @JoinColumn({ name: 'crm_team_id' })
   // crm_team: CrmTeam;
 
   /**
-   * Salesperson
+   * 销售人员用户ID
+   * 作用：关联到团队中的具体销售人员用户
    */
   @Column({
-    type: 'int'
+    type: 'int',
   })
   user_id: number;
 
+  // 多对一关联到User实体
   // @ManyToOne(() => User)
   // @JoinColumn({ name: 'user_id' })
   // user: User;
 
   /**
-   * Created by
+   * 创建人用户ID
+   * 作用：记录创建此团队成员关系的用户
    */
   @Column({
-    type: 'int'
+    type: 'int',
   })
   create_uid: number;
 
   /**
-   * Last Updated by
+   * 最后更新人用户ID
+   * 作用：记录最后修改此团队成员关系的用户
    */
   @Column({
-    type: 'int'
+    type: 'int',
   })
   write_uid: number;
 
   /**
-   * Active
+   * 是否激活
+   * 作用：控制团队成员的启用状态
    */
   @Column({
-    type: 'boolean'
+    type: 'boolean',
   })
   active: boolean;
 
   /**
-   * Created on
+   * 创建时间
+   * 作用：记录此团队成员关系的创建时间
    */
   @Column({
-    type: 'datetime'
+    type: 'datetime',
   })
   create_date: Date;
 
   /**
-   * Last Updated on
+   * 最后更新时间
+   * 作用：记录此团队成员关系的最后修改时间
    */
   @Column({
-    type: 'datetime'
+    type: 'datetime',
   })
   write_date: Date;
 
   /**
-   * Average Leads Capacity (on 30 days)
+   * 平均线索处理容量（30天内）
+   * 作用：定义销售成员在30天内能够处理的最大线索数量
    */
   @Column({
-    type: 'int'
+    type: 'int',
   })
   assignment_max: number;
 
   /**
-   * Assignment Domain
+   * 分配域
+   * 作用：定义可分配给此成员的线索和商机的规则范围
    */
   @Column({
-    type: 'varchar'
+    type: 'varchar',
   })
   assignment_domain: string;
 
   /**
-   * Preference assignment Domain
+   * 偏好分配域
+   * 作用：定义此成员偏好处理的线索和商机的规则范围
    */
   @Column({
-    type: 'varchar'
+    type: 'varchar',
   })
   assignment_domain_preferred: string;
 
   /**
-   * Pause assignment
+   * 是否暂停分配
+   * 作用：控制是否暂时停止向此成员分配新的线索和商机
    */
   @Column({
-    type: 'boolean'
+    type: 'boolean',
   })
   assignment_optout: boolean;
 
